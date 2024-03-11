@@ -1,0 +1,52 @@
+<?php 
+  $module = 1;
+  $page = 14;
+  $page_title = "Page ".$page;
+  $page_description = "Developing a reusable template for building DFO elearning pages in the GCWeb theme";
+  include "includes/before.php"; 
+?>
+
+<h2>Unit 1.3:  Stock status and reference points</h2>
+
+<figure>
+  <img src="../images/fish-gillnet.jpg" alt='fish in net'>
+  <figcaption>Arctic Char caught in a gillnet.
+  <br>Photo credit: DFO</figcaption>
+</figure>
+
+
+<aside class='bg-info'>
+<p><strong>Indicators</strong> are measurements that provide information on the state of a stock attribute of interest. They can be assessed against thresholds that, if crossed, signal a change in stock status. Common indicators include:</p> 
+  <ul>
+<li>  <span class="gc-dwnld-info"><abbr title="Abundance (N): total number of fish in a stock.">abundance</abbr></span></li>
+<li><span class="gc-dwnld-info"><abbr title="Biomass (B): the total weight of all fish in a stock.">biomass</abbr></span></li>
+<li> <span class="gc-dwnld-info"><abbr title="Spawning stock biomass (SSB): the total weight of all fish in a stock that have reached reproductive maturity.">spawning stock biomass</abbr></span></li>
+</ul>
+</aside>
+
+<p>An indicator that is calculated using consistent or comparable methodology over time can be used to develop a relative index. Where data is limited, relative indices may be used in stock assessments to track trends.</p>
+ 
+<p>Stock indicators can be influenced by: </p>
+  <ul>
+<li>prey availability</li>
+<li>predator abundance</li>
+<li>climate change and other environmental conditions</li>
+</ul>
+
+<p>Incorporating these broader ecosystem considerations into stock assessments contributes to an <span class="gc-dwnld-info"><abbr title="Ecosystem approach to fisheries management (EAFM): incorporates environmental considerations into stock assessments. This leads to more informed decision making because the impact of not only fishing but also ecosystem and environmental factors are included.">ecosystems approach to fisheries management</abbr></span>. </p>
+
+<p>Some stock assessments may include information on ecosystems and environmental conditions to improve the interpretation of historical information and the accuracy of projections. This can include:</p>
+<ul>
+  <li>oceanographic conditions </li>
+  <li>hydrographic conditions</li>
+  <li>availability of food or prey</li>
+  <li>predation</li>
+  <li>habitat</li>
+  <li>climate change</li>
+</ul>
+
+
+<aside class='bg-warning'>Climate change poses serious risks to the future of Canada’s fisheries. The <a href="https://laws-lois.justice.gc.ca/eng/acts/F-14/page-1.html"><i>Fisheries Act</i></a> requires DFO to consider environmental conditions affecting stocks in the development and implementation of management action. Across Canada, DFO scientists are exploring the ecosystem impacts of changing ocean conditions, such as oxygen depletion and sea ice loss, by studying the response of various fish stocks to these changes.</aside>
+
+
+<?php include "includes/after.php"; ?>

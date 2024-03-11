@@ -1,0 +1,200 @@
+@font-face {
+  font-family: "Myriad Pro Regular";
+  src: url('../fonts/Myriad Pro Regular.ttf');
+}
+
+@font-face {
+  font-family: "Myriad Pro Bold";
+  src: url('../fonts/Myriad Pro Bold.ttf');
+}
+
+main {
+   font-family: "Myriad Pro Regular";
+   font-size: 1.3em;
+}
+
+main h2 {
+  font-size: 1.5em;
+}
+#wb-sec {
+  font-size: 0.7em;
+}
+main section{
+
+ background-color: #f5f5f5;
+ padding: 1em;
+ margin-bottom: 1em;
+}
+
+section.main-text h2 {
+    font-size: 1.3em;
+    max-width: none !important;
+}
+
+.btn-default {
+  color: #131f2d;
+}
+.pagntn-prv-nxt {
+  text-align: right;
+  padding-top: 1em;
+  margin-right: 3em;
+}
+
+.pagntn-prv-nxt li a {
+  padding: 10px 15px !important;
+  text-decoration: none;
+  color: black;
+
+}
+.pagntn-prv-nxt li.btn-default {
+  padding: 0;
+}
+
+
+hr {
+  border-top: 1px solid #b4b4b4;
+}
+img {
+  width: 100%;
+  margin-bottom: 1em;
+}
+
+figure, img, .collapsible, aside, section, .section {
+      max-width: 65ch;
+}
+figure img {
+  margin-bottom: 0;
+}
+
+aside {
+  margin-bottom: 1em;
+  background-color: #f5f5f5;
+  padding: 1em;
+  margin-top: 1em;
+}
+
+aside h2 {
+    margin: 0;
+}
+
+aside h3 {
+	margin-bottom: 0 !important;
+
+}
+
+aside.bg-info {
+    background-color: #d9edf7;
+    color:black;
+}
+aside.definition {
+  background-color: #1C5587;
+  color: white;
+}
+
+aside.note {
+  background-color: #fdf27f;
+  color: black;
+  border: 1px black solid;
+}
+
+aside h3:first-child {
+  margin-top: 0;
+  margin-bottom: 1em;
+}
+
+.collapsible {
+  margin-top: 1em;
+}
+
+.collapsible.blue > details > summary {
+  background-color: #1a4372;
+  color: white;
+  font-weight: bold;
+}
+
+.collapsible.blue p strong {
+  color: #1a4372;
+}
+
+
+figcaption {
+  padding: 5px 10px !important;
+  background-color: #f5f5f5;
+  font-size: 0.9em;
+}
+
+aside figcaption {
+    background-color: #ddd;
+    margin-bottom: 5px;
+}
+
+
+.image-transcript figcaption, 
+.video figcaption {
+  padding: 0 !important;
+  font-style: normal;
+}
+
+img.half {
+  width:50%;
+  float:left;
+  padding:1em;
+}
+
+p {
+  padding-top: 1em;
+}
+
+aside p {
+  /*padding-top: 0;*/
+}
+
+#glossary a:target {
+   background-color: #ffa;
+}
+
+a.definition {
+    color: black;
+}
+
+.pop-definition {
+     display: none;
+    position: absolute;
+    padding: 1em;
+    z-index: 5;
+    margin-top: -5px;
+}
+
+.definition:hover + .pop-definition,
+.pop-definition:hover  {
+  display: block;
+  color: white;
+  background: #2572b4;
+}
+
+figcaption tr:first-child {
+  background-color: white;
+  font-weight: bold;
+}
+figcaption td {
+    border: 1px solid black;
+    width: auto;
+    min-width: 3em;
+    padding: 5px;
+    height: 0em;
+}
+
+.pagecount {
+      display: inline;
+    padding: 0.5em;
+    padding-left: 0;
+}
+
+.summary {
+  margin-top: 1em;
+}
+
+
+.row.imagetext figure {
+  padding-top: 1.4em;
+}
