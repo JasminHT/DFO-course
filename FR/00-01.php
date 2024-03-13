@@ -35,7 +35,7 @@
       <p>Narratrice : Ce cours comporte 4 modules d’apprentissage, chacun divisé en unités.</p>
 
       <p>[Visuel : Les mots « Les participants auront une meilleure compréhension de ce qui suit : » apparaissent. En dessous, les mots « les processus d’évaluation des stocks au Canada&nbsp;; » apparaissent.]</p>
-      <p>Narratrice : À l’issue de ce cours, les participants auront une meilleure compréhension de ce qui suit les processus d’évaluation des stocks au Canada&nbsp;;</p>
+      <p>Narratrice : À l’issue de ce cours, les participants auront une meilleure compréhension de ce qui suit : les processus d’évaluation des stocks au Canada&nbsp;;</p>
 
       <p>[Visuel : Les mots « Les participants auront une meilleure compréhension de ce qui suit : » apparaissent. En dessous, les mots « le rôle de l’évaluation des stocks dans les sciences halieutiques au Canada » apparaissent.]</p>
 
@@ -53,10 +53,10 @@
 
       <p>[Visuel : Les mots « le processus d’examen par les pairs du Secrétariat canadien des avis scientifiques (SCAS) de Pêches et Océans Canada » apparaissent.]</p>
 
-      <p>Narratrice : Il importe de mentionner que cette formation ne vise pas à :</p>
+      <p>Narratrice : Veuillez noter que ce cours ne vise pas à :</p>
 
       <p>Narratrice : fournir des renseignements généraux sur les statistiques ou l’écologie&nbsp;;</p>
-      <p>[Visuel : Les mots « Il importe de mentionner que cette formation ne vise pas à : fournir des renseignements généraux sur les statistiques ou l’écologie » apparaissent.]</p>
+      <p>[Visuel : Les mots « Veuillez noter que ce cours ne vise pas à : fournir des renseignements généraux sur les statistiques ou l’écologie » apparaissent.]</p>
 
       <p>Narratrice : inclure les équations et les formules mathématiques des modèles d’évaluation des stocks&nbsp;; </p>
       <p>[Visuel : Les mots « inclure les équations et les formules mathématiques des modèles d’évaluation des stocks » apparaissent.]</p>

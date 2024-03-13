@@ -122,23 +122,23 @@
 
 <p>[Visuel : Un tableau apparaît avec le titre « Table de décision : Probabilité d’être dans la zone saine ». 7 colonnes sont intitulées, de gauche à droite : Niveau de capture annuel (t) ; 2013 ; 2014 ; 2015 ; 2016 ; 2017 ; 2018 ;. Le tableau comporte 6 lignes.]</p>
 
-<p>Narratrice: La première colonne du tableau de décision indique différents niveaux de prise en tonnes.</p>
+<p>Narratrice: La première colonne du tableau de décision indique différents niveaux de réponse en tonnes.</p>
 
 <p>[Visuel : la première colonne est surlignée en bleu foncé.]</p>
 
-<p>Narratrice: Les lignes indiquent la probabilité qu’un stock se trouve dans la zone saine au début de chaque année pour chaque niveau de prise (remarque : la probabilité en 2013 est la même parce qu’il s’agit du point de départ de toutes les projections).</p>
+<p>Narratrice: Les lignes indiquent la probabilité qu’un stock se trouve dans la zone saine au début de chaque année pour chaque niveau de réponse (remarque : la probabilité en 2013 est la même parce qu’il s’agit du point de départ de toutes les projections).</p>
 
 <p>[Visuel : La deuxième colonne (2013) est surlignée en bleu foncé.]</p>
 
-<p>Narratrice: Si les prises sont réduites à zéro, la probabilité que le stock se trouve dans la zone saine augmente avec le temps.</p>
+<p>Narratrice: Si les captures sont réduites à zéro, la probabilité que le stock se trouve dans la zone saine augmente avec le temps.</p>
 
 <p>[Visuel: La première ligne (0) est surlignée en bleu foncé.]</p>
 
-<p>Narratrice: À des prises annuelles de 600 tonnes, la probabilité que le stock se trouve dans la zone saine demeure stable.</p>
+<p>Narratrice: À 600 tonnes de captures annuelle, la probabilité que le stock se trouve dans la zone saine demeure stable.</p>
 
 <p>[Visuel: La 4ème ligne (600) est surlignée en bleu foncé.]</p>
 
-<p>Narratrice: Si les prises augmentent à 1 000 tonnes, la probabilité qu’il se trouve dans la zone saine diminue avec le temps.</p>
+<p>Narratrice: Si les captures augmentent à 1 000 tonnes, la probabilité qu’il se trouve dans la zone saine diminue avec le temps.</p>
 
 <p>[Visuel: La dernière ligne (1000) est surlignée en bleu foncé.]</p>
 
@@ -224,7 +224,7 @@
 
 <p>[Visuel: La 5ème ligne (800) est surlignée en bleu foncé.]</p>
 
-<p>Narratrice: Il s’agit d’une façon utile d’examiner comment le risque augmente avec le niveau de prise.</p>
+<p>Narratrice: Il s’agit d’une façon utile d’examiner comment le risque augmente avec le niveau de capture.</p>
 
 <p>[La musique se termine]</p>
 

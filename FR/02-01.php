@@ -28,7 +28,7 @@
 
 <p>Narratrice : Bienvenue !</p>
 
-<p>[Visuel : Les mots « Introduction à l’évaluation des stocks à Pêches et Océans Canada" apparaissent. En dessous, les mots "Module 2 Objectifs » apparaissent.]</p>
+<p>[Visuel : Les mots « Introduction à l’évaluation des stocks à Pêches et Océans Canada » apparaissent. En dessous, les mots  « Objectifs du Module 2 » apparaissent.]</p>
 
 <p>Narratrice: Introduction à l’évaluation des stocks à Pêches et Océans Canada. Objectifs du module 2.</p>
 

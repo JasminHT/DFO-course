@@ -119,7 +119,7 @@
 
 <p>[Visuel : le chiffre 1 apparaît sur le graphique à l’intersection de la « zone critique » à l’extrême gauche et de la « zone de prudence » au milieu, indiquant l’emplacement du point de référence limite. Une ligne pointillée diagonale descendante, étiquetée 2, traverse la section centrale de la « zone de prudence » du graphique, reliant la ligne horizontale de la section de l’extrême droite de la « zone saine»  à l’axe des x à l’intersection entre les sections du milieu de la « zone de prudence » et de l’extrême gauche de la « zone critique »].</p>
 
-<p>Narratrice: En deçà du PRL, la pêche est maintenue au niveau le plus bas possible afin de faciliter la croissance du stock et d’éviter de lui causer des dommages graves. </p>
+<p>Narratrice: En dessous du PRL, la pêche est maintenue au niveau le plus bas possible afin de faciliter la croissance du stock et d’éviter de lui causer des dommages graves. </p>
 
 <p>[Visuel : Une ligne horizontale en pointillés relie le côté droit de la section de la zone critique située à l’extrême gauche du graphique à l’axe des y].</p>
 

@@ -24,21 +24,21 @@
 
 <p>[Visuel: Un grand chiffre « 1 » apparaît en haut à gauche de l’écran.]</p>
 
-<p>[Visuel : Les mots « Qu’est-il arrivé au stock? Reconstituer l’historique du stock et sa réaction aux prélèvements et aux conditions environnementales passées » apparaissent.]</p>
+<p>[Visuel : Les mots « Qu’est-il arrivé au stock? Reconstituer l’histoire du stock et sa réponse aux prélèvements passées et aux conditions environnementales. » apparaissent.]</p>
 
-<p>Narratrice : 1. Qu’est-il arrivé au stock? Les scientifiques utilisent des données antérieures pour reconstituer l’historique du stock et sa réaction aux prélèvements et aux conditions environnementales passées.</p>
+<p>Narratrice : 1. Qu’est-il arrivé au stock? Les scientifiques utilisent des données antérieures pour reconstituer l’histoire du stock et sa réponse aux prélèvements passées et aux conditions environnementales.</p>
 
 <p>[Visuel: Un grand chiffre « 2 » apparaît en haut à gauche de l’écran.]</p>
 
-<p>[Visuel : Les mots « Quel est l’état actuel du stock? Évaluer l’état du stock soumis au prélèvement et aux conditions environnementales actuels » apparaissent.]</p>
+<p>[Visuel : Les mots « Quel est l’état actuel du stock? Évaluer l’état du stock dans les conditions actuelles de prélèvement et d’environnement » apparaissent.]</p>
 
-<p>Narratrice : 2. Quel est l’état actuel du stock? Ensuite, les scientifiques évaluent l’état du stock soumis au prélèvement et aux conditions environnementales actuels.</p>
+<p>Narratrice : 2. Quel est l’état actuel du stock? Ensuite, les scientifiques évaluent l’état du stock dans les conditions actuelles de prélèvement et d’environnement.</p>
 
 <p>[Visuel: Un grand chiffre « 3 » apparaît en haut à gauche de l’écran.]</p>
 
-<p>Visuel : Les mots « Que pourrait-il arriver au stock? Projeter la réaction du stock à différentes mesures de gestion » apparaissent.]</p>
+<p>Visuel : Les mots « Que pourrait-il arriver au stock? Projeter la réponse du stock à différentes mesures de gestion » apparaissent.]</p>
 
-<p>Narratrice : 3. Que pourrait-il arriver au stock? Enfin, les scientifiques projettent la réaction du stock à différentes mesures de gestion.</p>
+<p>Narratrice : 3. Que pourrait-il arriver au stock? Enfin, les scientifiques projettent la réponse du stock à différentes mesures de gestion.</p>
 
 <p>[La musique se termine]</p>
 

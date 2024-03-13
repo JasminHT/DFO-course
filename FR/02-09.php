@@ -25,7 +25,7 @@
 
     <p>Narratrice: Évaluations des stocks fondées sur des modèles.</p>
 
-    <p>[Visuel : Une boîte bleue apparaît sur la gauche de l’écran avec les mots « BALANCE ACTUELLE » à l’intérieur. Une icône représentant une petite pile de pièces de monnaie apparaît sous la boîte.]</p>
+    <p>[Visuel : Une boîte bleue apparaît à la gauche de l’écran avec les mots « BALANCE ACTUELLE » à l’intérieur. Une icône représentant une petite pile de pièces de monnaie apparaît sous la boîte.]</p>
 
     <p>Narratrice: Un stock de poissons peut être comparé à un compte bancaire. Dans le domaine bancaire, votre solde actuel augmente au fur et à mesure que vous accumulez des intérêts.</p>
 
@@ -47,7 +47,7 @@
 
     <p>Narratrice: La biomasse actuelle du stock de poissons est similaire au solde actuel du compte bancaire.</p>
 
-    <p>[Visuel : Le texte de l’encadré vert est remplacé par le mot « CROISSANCE », l’icône sous l’encadré est remplacée par cinq poissons de tailles différentes. L’icône sous la boîte est remplacée par cinq poissons de tailles différentes].</p>
+    <p>[Visuel : Le texte de l’encadré vert est remplacé par le mot « CROISSANCE », l’icône sous l’encadré est remplacée par cinq poissons de tailles différentes].</p>
 
     <p>Narratrice: La reproduction et la croissance des poissons dans le stock sont comme des intérêts accumulés.</p>
 
@@ -60,7 +60,7 @@
     <p>Narratrice: Au niveau le plus élémentaire, les modèles d’évaluation des stocks supposent que les poissons d’un stock naissent, grandissent, se reproduisent et meurent. De la même manière que nous pouvons utiliser les mathématiques et les statistiques pour calculer notre solde bancaire futur estimé, nous pouvons utiliser les modèles d’évaluation des stocks pour prévoir l’évolution d’un stock au fil du temps.</p>
     <p>[Visuel : Des icônes de poissons de différentes tailles apparaissent à l’écran. Certaines sont remplacées par des squelettes de poissons, pour signifier que les poissons grandissent et meurent].</p>
 
-    <p>Narratrice: En réalité, il y a beaucoup d’autres facteurs qui influencent les stocks de poissons. La modélisation permet aux scientifiques de combiner des observations diverses et complexes pour mieux comprendre l’état passé, présent et futur du stock dans différentes conditions de récolte et environnementales.</p>
+    <p>Narratrice: En réalité, il y a beaucoup d’autres facteurs qui influencent les stocks de poissons. La modélisation permet aux scientifiques de combiner des observations diverses et complexes pour mieux comprendre l’état passé, présent et futur du stock dans différentes conditions de pêche et d’environnement.</p>
 
     <p>[La musique se termine]</p>
 

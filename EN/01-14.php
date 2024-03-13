@@ -9,9 +9,8 @@
 <h2>Unit 1.3:  Stock status and reference points</h2>
 
 <figure>
-  <img src="../images/fish-gillnet.jpg" alt='fish in net'>
-  <figcaption>Arctic Char caught in a gillnet.
-  <br>Photo credit: DFO</figcaption>
+  <img src="../images/manila_clam-palourde_japonaise.jpg">
+  <figcaption> Manila clams on a beach. <br>Photo credit: DFO</figcaption>
 </figure>
 
 

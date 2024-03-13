@@ -39,9 +39,9 @@
 
 <p>Narratrice : Les principes d’évaluation des stocks : Comment la gestion des pêches vise à promouvoir l’exploitation durable des stocks de poissons et à maintenir des écosystèmes sains et les contributions que les détenteurs de droits et les parties prenantes apportent à la science halieutique&nbsp;;</p>
 
-<p>[Visuel : Les mots « Réaliser des évaluations des stocks : Les types de données, la collecte de données, la recherche et la façon dont les évaluations de stocks basées sur des modèles et sans modèle sont menées » apparaissent].</p>
+<p>[Visuel : Les mots « Réaliser des évaluations des stocks : Les types de données, méthodes de collecte des données, la recherche et la façon dont les évaluations de stocks basées sur des modèles et sans modèle sont menées » apparaissent].</p>
 
-<p>Narratrice : Réaliser des évaluations des stocks : Les types de données, la collecte des données, la recherche et la manière dont les évaluations des stocks basées sur des modèles et sans modèle sont menées&nbsp;;</p>
+<p>Narratrice : Réaliser des évaluations des stocks : Les types de données, méthodes de collecte des données, la recherche et la manière dont les évaluations des stocks basées sur des modèles et sans modèle sont menées&nbsp;;</p>
 
 <p>[Visuel : Les mots « Les résultats de l’évaluation des stocks : comment nous analysons les données collectées, comment fonctionne l’évaluation de la stratégie de gestion et comment nous abordons l’incertitude et le risqué » apparaissent].</p>
 

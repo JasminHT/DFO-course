@@ -54,7 +54,7 @@
 
 <p>Narratrice : explorer comment la science évaluée par les pairs constitue le fondement d’une base d’information partagée et fiable&nbsp;;</p>
 
-<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « voir comment fonctionnent les réunions d’évaluation par les pairs et qui est présent autour de la table » apparaissent].</p>
+<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « voir comment fonctionnent les réunions d’évaluation par les pairs et qui est autour de la table » apparaissent].</p>
 
 <p>Narratrice : voir comment fonctionnent les réunions d’évaluation par les pairs et qui est autour de la table&nbsp;;</p>
 

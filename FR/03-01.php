@@ -36,9 +36,9 @@
 
 <p>Narratrice : Dans ce module, les participants vont :</p>
 
-<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « explorer les sources potentielles d'incertitude et l'importance d'intégrer l'incertitude dans le calcul de l'état des stocks et des points de référence ; » apparaissent].</p>
+<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « explorer les produits communs des évaluations des stocks, y compris la façon dont on utilise les modèles pour projeter l’état futur des stocks ; » apparaissent].</p>
 
-<p>Narratrice : explorer les produits courants des évaluations des stocks, y compris la façon dont on utilise les modèles pour projeter l’état futur des stocks ; </p>
+<p>Narratrice : explorer les produits communs des évaluations des stocks, y compris la façon dont on utilise les modèles pour projeter l’état futur des stocks ; </p>
 
 <p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « comprendre les évaluations de la stratégie de gestion (ESG) ; » apparaissent.]</p>
 
@@ -56,7 +56,7 @@
 
 <p>Narratrice : examiner comment l’évaluation de la stratégie de gestion (ESG) fournit une approche structurée de la gestion durable de la pêche&nbsp;;</p>
 
-<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « explorer un certain nombre de sources d’incertitude et la façon dont Pêches et Océans Canada les intègre dans le calcul de l’état des stocks et des points de référence » apparaissent].</p>
+<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « explorer les sources potentielles d’incertitude et l’importance d’intégrer l’incertitude dans le calcul de l’état des stocks et des points de référence » apparaissent].</p>
 
 <p>Narratrice : explorer les sources potentielles d’incertitude et l’importance d’intégrer l’incertitude dans le calcul de l’état des stocks et des points de référence.</p>
 

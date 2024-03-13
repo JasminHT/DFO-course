@@ -90,7 +90,7 @@
 
 <li><span class="gc-dwnld-info"><abbr title="Gear selectivity: the size or age at which fish are vulnerable to the fishing gear used.">gear selectivity</abbr></span></li>
 </ul>
-<p>Fisheries-dependent data can be collected over time to produce valuable data time series for stock assessment. For example, information on total catch over time is a common and key input to many stock assessment models.</p>
+<p>Fishery-dependent data can be collected over time to produce valuable data time series for stock assessment. For example, information on total catch over time is a common and key input to many stock assessment models.</p>
 
 
 <?php include "includes/after.php"; ?>

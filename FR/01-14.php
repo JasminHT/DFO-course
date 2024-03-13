@@ -9,9 +9,8 @@
 <h2>Unité 1.3 : État des stocks et points de référence</h2>
 
 <figure>
-  <img src="../images/fish-gillnet.jpg" alt='fish in net'>
-  <figcaption>Omble chevalier pris dans un filet maillant.
-    <br>Source de la photo : MPO</figcaption>
+  <img src="../images/manila_clam-palourde_japonaise.jpg">
+  <figcaption> Palourdes japonaises sur une plage. <br>Photo credit: DFO</figcaption>
 </figure>
 
 
