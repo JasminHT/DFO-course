@@ -10,6 +10,7 @@
 <h2>Unit 4.4: Conflicts of interest</h2>
 
 <aside class='bg-info'>
+  <h4>Definition: </h4>
 <p>A <b>conflict of interest</b> is an interest held by a participant that may affect or be perceived to affect their objectivity and independence in contributing to the peer review process. </p>
 </aside>
 

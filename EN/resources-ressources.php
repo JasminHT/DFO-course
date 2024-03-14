@@ -25,8 +25,6 @@
 
 <li><a href="https://www.dfo-mpo.gc.ca/fisheries-peches/sdc-cps/index-eng.html ">Commercial fishery requirements  </a></li>
 
-<li><a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/guidelines-lignes-directrices-eng.htm  "> Guidelines for Implementing the Fish Stocks Provisions in the <i>Fisheries Act</i>  </a></li>
-
 <li><a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/overview-cadre-eng.htm">Sustainable Fisheries Framework</a></li>
 
 <li><a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/precaution-eng.htm">A fishery decision-making framework incorporating the precautionary approach</a></li>

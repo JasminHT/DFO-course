@@ -18,6 +18,7 @@
 <p>Fisheries science brings together ecology, mathematics, statistics, population dynamics, and marine biology to better understand fish stocks and fisheries so that they can be sustainably managed. It relies on best-available information and strong, collaborative relationships with stakeholders and Indigenous Peoples. </p>
 
 <aside class='bg-info'>
+  <h4>Definition: </h4>
   <p>The term <strong>fishery</strong> refers to the sum of all fishing activity on a resource. In Canada, fisheries may include commercial, recreational, or Indigenous food, social, and ceremonial (FSC) fishing activities. </p>
   <p>Different types of fisheries are defined by: </p>
   <ul>

@@ -27,10 +27,14 @@
   <dl class='lst-spcd'>
   <dt>Abundance (N):</dt><dd> total number of fish in a stock.</dd>
   <dt>Assumption:</dt><dd> a statement introduced into an argument that is accepted as being true.</dd> 
+  <dt>Availability </dt>
+    <dd>the likelihood that a fish will enter fishing gear.</dd>
   <dt>Biomass (B):</dt><dd> the total weight of all fish in a stock.</dd>
   <dt>Bycatch:</dt><dd> the unintentional catch of a species when meaning to catch another. The retained portion of bycatch is called incidental catch, whereas the portion returned to the water is called discards.</dd>
   <dt>Carrying capacity (K):</dt><dd> stock size limited by environmental factors and resource availability (for example, food, habitat, mates).</dd>
   <dt>Catch per unit effort:</dt><dd> the quantity of fish caught with one standard unit of fishing effort (e.g., the number of fish taken per 1000 hooks per day or the weight of fish taken per hour of trawling). CPUE is often assumed to be a relative abundance index (i.e., proportional to the portion of the stock biomass (or numbers) vulnerable to the gear).</dd>
+  <dt>Catchability</dt>
+    <dd>a concept that reflects the efficiency of a fishery. It is the combination of availability (the likelihood that a fish will enter fishing gear) and selectivity (the likelihood of retention once a fish enters fishing gear). Gear selectivity is affected by gear design, such as mesh type and size, escape panels, hook size).</dd>
   <dt>Cohort:</dt><dd> (also known as a year-class) fish of a stock born in the same spawning year.</dd>
   <dt>Conflict of interest:</dt><dd> an interest held by a participant that may affect or be perceived to affect their objectivity and independence in contributing to the peer review process.</dd>
   <dt>Consensus:</dt><dd> an absence of opposition to the peer review meeting conclusions and advice.</dd>
@@ -38,7 +42,7 @@
   <dt>Decision tables:</dt><dd> a simple way to present advice regarding the potential consequences and trade-offs of making different decisions.</dd>
   <dt>Depletion:</dt><dd> a measure of the current biomass of a stock relative to the average unfished biomass.</dd>
   <dt>Dredge:</dt><dd> a fishing method whereby a dredge is dragged across the sea floor, either scraping or penetrating the sea floor.</dd>
-  <dt>Ecosystem approach to fisheries management (EAFM):</dt><dd> incorporates environmental considerations into stock assessments. This leads to more informed decision making because the impact of not only fishing but also ecosystem and environmental factors are included.</dd>
+  <dt>Ecosystem approach to fisheries management (EAFM):</dt><dd> incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on one stock have consequences to others.</dd>
   <dt>Electrofishing:</dt><dd> an electric field emitted from a pulser to temporarily stun fish that can then be collected via dip net.</dd>
   <dt>Fish:</dt><dd> in accordance with the <i>Fisheries Act</i>, the term “fish” includes: 
   <ul>
@@ -63,7 +67,8 @@
     <li>other incidental mortality in other fisheries</li>
   </ul>
 </dd>
-  <dt>Gear selectivity:</dt><dd> the size or age at which fish are vulnerable to the fishing gear used.</dd>
+  <dt>Selectivity:</dt>
+    <dd>the likelihood of retention once a fish enters fishing gear. Gear selectivity is affected by gear design, such as mesh type and size, escape panels, hook size).</dd>
   <dt>Gillnet:</dt><dd> a fishing net that is hung vertically so that fish get trapped in it by their gills.</dd>
   <dt>Groundfish:</dt><dd> (also known as demersal fish) species that live and feed on or near the seafloor.</dd>
   <dt>Harvest rate:</dt><dd> the proportion of the recruited or vulnerable biomass that is caught during a certain period, usually a fishing year (also referred to as exploitation rate).</dd>
@@ -77,8 +82,9 @@
   <dt>Longline:</dt><dd> a type of fishing gear consisting of a long main line with shorter lines with baited hooks fastened at intervals.</dd>
   <dt>Maximum sustainable yield (MSY):</dt><dd>the maximum average annual catch that can be removed from a stock over an indefinite period of time under current environmental conditions</dd>
   <ul>
-    <li><dt>B<sub>MSY</sub>:</dt><dd> the average biomass that comes from fishing a stock to deliver the maximum sustainable yield at the point of maximum growth rate.  </dd></li>
+    <li><dt>B<sub>MSY</sub>:</dt><dd> the stock biomass that produces the maximum sustainable yield is referred to as B<sub>MSY</sub>. </dd></li>
   </ul>
+  <dt>Models :</dt> <dd>tools used to simplify a natural system so it can be more easily understood. </dd>
   <dt>Moratorium:</dt><dd> a temporary prohibition of an activity.</dd>
   <dt>Natural mortality (M):</dt><dd> measure of deaths in a stock due to everything other than fishing, such as:
   <ul>

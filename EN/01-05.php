@@ -13,7 +13,8 @@
 <p>Canada currently takes a single-species approach to stock assessment. This approach looks at the impact of fishing on 1 species at a time. The results only inform management decisions about the fishery in question.</p>
 
 <aside class='bg-info'>
-<p>An <strong>ecosystem approach to fisheries management</strong> incorporates environmental considerations into stock assessments. This leads to more informed decision making because the impact of not only fishing but also ecosystem and environmental factors are included. </p></aside>
+  <h4>Definition: </h4>
+<p>An <strong>ecosystem approach to fisheries management</strong>  incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on one stock have consequences to others. </p></aside>
 
 <figure class='image-transcript' >
   <img alt='Infographic explaining an Ecosystem Approach to Fisheries Management'
@@ -22,25 +23,40 @@
     <details id="inline-captions">
       <summary>Long description<br></summary>
       <div class="mwsbodytext text parbase section">
-        <p>An infographic depicting the spectrum of fisheries management strategies.</p>
 
-        <p>Ecosystem-based fisheries management:</p>
-        <ul><li>expands the scope of the management of commercial fisheries to include simultaneous management of multiple species</li>
-        <li>incorporates ecosystem variables such as water temperature, predatory-prey dynamics, and habitat</li></ul>
+        <p>An infographic depicting the spectrum of fisheries management strategies. Different icons are used to explain what variables are considered in ecosystem-based fisheries management, an ecosystem approach to fisheries management, and single-species fisheries management.</p>
 
-        <p>Ecosystem approach to fisheries management:</p>
-        <ul><li>includes the management of commercial fisheries on a species-by-species basis</li>
-        <li>incorporates ecosystem variables such as water temperature, predatory-prey dynamics, and habitat</li></ul>
-
-        <p>Single species management:</p>
-        <ul><li>includes the management of commercial fisheries on a species-by-species basis</li></ul>
       </div>
     </details>
   </figcaption>
 </figure>
 
+<div class='collapsible blue' id="module1">
+  <details>
+    <summary><strong>Ecosystem-based fisheries management</strong></summary>
+    <br><ul><li>expands the scope of the management of commercial fisheries to include simultaneous management of multiple species</li>
+        <li>incorporates ecosystem variables such as water temperature, predatory-prey dynamics, and habitat</li></ul>
+  </details>
+</div>
 
+<div class='collapsible blue' id="module2">
+  <details>
+    <summary><strong>Ecosystem approach to fisheries management</strong></summary>
+    <br><ul><li>includes the management of commercial fisheries on a species-by-species basis</li>
+        <li>incorporates ecosystem variables such as water temperature, predatory-prey dynamics, and habitat</li></ul>
+  </details>
+</div>
 
+<div class='collapsible blue' id="module3">
+  <details>
+    <summary><strong>Single species management</strong></summary>
+    <br><ul><li>includes the management of commercial fisheries on a species-by-species basis</li></ul>
+  </details>
+</div>
+
+        
+
+<p>All credible ecosystem and multispecies approaches are built upon decades of peer reviewed single species work. All three approaches have strengths and weaknesses that contribute collectively to an improved understanding of fisheries.</p>
 
 <p>DFO is moving towards an ecosystem approach to fisheries management. It will:</p>
 

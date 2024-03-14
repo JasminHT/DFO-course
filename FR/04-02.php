@@ -25,7 +25,7 @@
 
 </ul>
 
-<p>Le <a href="https://www.dfo-mpo.gc.ca/csas-sccs/index-fra.htm">Secrétariat canadien des avis scientifiques</a> a été créé en 1997 pour fournir des avis sur l’état et les tendances des stocks à l’appui de la gestion des pêcheries commerciales. En 2001, le secrétariat a été rebaptisé « Secrétariat canadien des avis scientifiques (SCAS) » et est chargé de coordonner l’élaboration des avis scientifiques du MPO examinés par les pairs. La science de grande qualité développée lors du processus d’examen par les pairs du SCAS assure que les consultations des détenteurs de droits autochtones, des intervenants et des organismes consultatifs se déroulent à partir d’une base d’information partagée et fiable. L’intégrité et l’objectivité scientifiques sont des éléments essentiels de toutes les étapes du processus du SCAS, notamment : </p>
+<p>Le <a href="https://www.dfo-mpo.gc.ca/csas-sccs/index-fra.htm">Secrétariat canadien des avis scientifiques</a> a été créé en 1997 pour fournir des avis sur l’état et les tendances des stocks à l’appui de la gestion des pêcheries commerciales. En 2001, le secrétariat a été rebaptisé « Secrétariat canadien des avis scientifiques (SCAS) » et est chargé de coordonner l’élaboration des avis scientifiques du MPO examinés par les pairs, y compris les résultats des évaluations des stocks. La science de grande qualité développée lors du processus d’examen par les pairs du SCAS assure que les consultations des détenteurs de droits autochtones, des intervenants et des organismes consultatifs se déroulent à partir d’une base d’information partagée et fiable. L’intégrité et l’objectivité scientifiques sont des éléments essentiels de toutes les étapes du processus du SCAS, notamment : </p>
 
 <ul>
 <li>planification&nbsp;;</li>
@@ -48,6 +48,7 @@
 
 </ol>
 
-<aside class='bg-warning'> Le SCAS ne produira plus de comptes rendus pour les réunions d’examen par les pairs à compter de 2023. Les comptes rendus déjà publiés des réunions précédentes demeureront disponibles sur <a target="_blank" href="https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-fra.asp">le site Web du SCAS</a>.</aside>
+<aside class='bg-warning'> 
+  Le SCAS ne produira plus de comptes rendus pour les réunions d’examen par les pairs à compter de 2023. Les comptes rendus déjà publiés des réunions précédentes demeureront disponibles sur <a target="_blank" href="https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-fra.asp">le site Web du SCAS</a>.</aside>
 
 <?php include "includes/after.php"; ?>

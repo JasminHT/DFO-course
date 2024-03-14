@@ -20,6 +20,7 @@
 <p>Les sciences halieutiques intègrent l’écologie, les mathématiques, les statistiques, la dynamique des populations et la biologie marine afin d’améliorer la compréhension des stocks de poissons et des activités de pêche, en vue d’une gestion durable. Elles reposent sur les meilleures données disponibles et de solides relations de collaboration avec les intervenants et les peuples Autochtones. </p>
 
 <aside class='bg-info'>
+  <h4>Définition : </h4>
   <p>Le terme <strong>pêche</strong> désigne la somme de toutes les activités de pêche sur une ressource donnée. Au Canada, les pêches peuvent comprendre des activités de pêche commerciale, récréative ou autochtone à des fins alimentaires, sociales et rituelles (ASR). </p>
   <p>Les différents types de pêche sont définis par : </p>
   <ul>

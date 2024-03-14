@@ -32,6 +32,8 @@
   <p>Le morue franche a fait l’objet d’une importante pêche aux XVIIIe et XIXe siècles (plus de 300 000 tonnes). Dans les années 1950, la technologie et les marchés des produits de la mer ont commencé à évoluer rapidement et la pression de la pêche a augmenté sur le stock. Des interprétations erronées des prises élevées ont contribué à une surestimation de la taille du stock, à des  <span class="gc-dwnld-info"><abbr title="Quota : Limite de prises établie pour une pêche donnée.">quotas</abbr></span> exagérés et à une <span class="gc-dwnld-info"><abbr title="Mortalité par pêche : Mesure des mortalités dans un stock attribuables à toutes les activités de pêche, y compris la pêche ciblée, les prises accessoires et les autres mortalités fortuites dans d’autres pêches.">mortalité par pêche</abbr></span> non durable dans les années 1980 et au début des années 1990. La diminution importante des prises et de la <span class="gc-dwnld-info"><abbr title="Biomasse (B) : Le poids total de tous les poissons d’un stock.">biomasse</abbr></span> des stocks a entraîné un moratoire en 1992.</p>
 </aside>
 
+<h3>Les données indépendantes de la pêche</h3>
+
 <section  style="background-color:white;padding-top:0;">
   <div class='row imagetext'>
     <div class='col-sm-6'>
@@ -46,7 +48,7 @@
 
     </div>
     <div class='col-sm-6'>
-      <p>Les données indépendantes de la pêche sont recueillies dans le cadre d’activités de surveillance en dehors des pêches. Les relevés de surveillance peuvent couvrir des zones géographiques plus vastes que les pêches commerciales, récréatives et autochtones à des fins alimentaires, sociales et rituelles (ASR). Ils peuvent également être effectués à d’autres périodes de l’année que la récolte. </p>
+      <p>Les données indépendantes de la pêche peuvent contribuer à combler les lacunes des données dépendantes de la pêche. Les données indépendantes de la pêche sont recueillies dans le cadre d’activités de surveillance en dehors des pêches. Les relevés fait appel à des pratiques de routine pour collecter des données sur la pêche et suivre les changements au fil du temps. Les relevés de surveillance peuvent couvrir des zones géographiques plus vastes que les pêches commerciales, récréatives et autochtones à des fins alimentaires, sociales et rituelles (ASR). Ils peuvent également être effectués à d’autres périodes de l’année que la récolte. </p>
     </div>
   </div>
 

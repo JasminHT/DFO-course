@@ -22,7 +22,7 @@ if (!isset($module)) {
         <strong>Unit 1.1:</strong> Canada’s approach to fisheries science</a></li>
         <li><a href="01-09.php" class="list-group-item">
         <strong>Unit 1.2:</strong> What is stock assessment?</a></li>
-        <li><a href="01-12.php" class="list-group-item">
+        <li><a href="01-11.php" class="list-group-item">
         <strong>Unit 1.3:</strong>  Stock status and reference points</a></li>
       </ul>
       <?php } ?>

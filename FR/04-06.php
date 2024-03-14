@@ -15,7 +15,9 @@
 </figcaption>
 </figure>
 
-<aside class='bg-info'>La discussion et le débat sont des éléments importants du processus d’examen par les pairs. Le <strong>consensus</strong> est l’absence d’opposition aux conclusions et aux avis de la réunion d’examen par les pairs. Le consensus repose sur des données scientifiques et de l’information, et non sur des considérations externes, comme les impacts potentiels de décisions futures.</aside>
+<aside class='bg-info'>
+  <h4>Définition : </h4>
+  La discussion et le débat sont des éléments importants du processus d’examen par les pairs. Le <strong>consensus</strong> est l’absence d’opposition aux conclusions et aux avis de la réunion d’examen par les pairs. Le consensus repose sur des données scientifiques et de l’information, et non sur des considérations externes, comme les impacts potentiels de décisions futures.</aside>
 
 <p>On parvient à un consensus en tenant compte d’autres interprétations et d’opinions contraires. Le partage d’opinions divergentes est encouragé parce que les avis scientifiques bénéficieront de leur contribution. Dans de nombreux cas, un consensus peut être atteint lorsque les participants estiment que des données supplémentaires ou des analyses plus approfondies pourraient soutenir une autre conclusion, mais qu’ils ne s’opposent pas aux conclusions proposées.</p>
 

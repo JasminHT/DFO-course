@@ -16,23 +16,7 @@
 </ul>
 
 <aside>
-  <h3>Exemple d’espèce à courte durée de vie</h3>
 
-  <div class='row imagetext'>
-    <div class='col-sm-6'>
-
-      <figure>  
-        <img src="../images/capelin-bucket.jpg" alt="Des capelans dans un seau.">
-        <figcaption>
-Source de la photo : MPO
-</figcaption>
-
-      </figure>
-    </div>
-    <div class='col-sm-6'>
-        <p>Le capelan vit rarement plus de 5 ans. La plupart meurent après la fraie.</p>
-    </div>
-  </div>
 
 
   <h3>Exemples d’espèces à longue durée de vie</h3>

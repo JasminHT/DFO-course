@@ -15,6 +15,7 @@
   
 
 <aside class='bg-info'>
+  <h4>Definition: </h4>
 <p>Scientific data used in stock assessments can come from a variety of sources that are grouped into 2 categories:</p>
 <ul>
   <li><strong>fishery-dependent data</strong> are collected directly from commercial, recreational, or Indigenous food, social, and ceremonial (FSC) fisheries </li>
@@ -25,7 +26,7 @@
 
 
 <aside class='bg-warning'>
-
+<h4>Key concept: </h4>
   <p>The primary difference between the 2 categories of data is that: </p>
   <ul>
     <li>fishery-dependent data are collected when and where fishing occurs</li>
@@ -37,7 +38,7 @@
 </aside>
 
 
-  <p>Locations for fishery-independent sampling are often selected using a random stratified approach: a geographic area is divided into sections (known as strata) based on certain characteristics (for example, square kilometres, depth). Strata can be randomly selected to more accurately reflect the entire stock in the data.</p>
+<h3>Fishery-dependent data</h3>
   
 <p>Fishery-dependent data collected by commercial, recreational, and Indigenous FSC fisheries include: </p>
 <ul>
@@ -88,9 +89,9 @@
 <li>metrics of individual fish condition (for example, weight-to-length ratios) </li>
 <li><span class="gc-dwnld-info"><abbr title="Fishing mortality (F): measure of deaths in a stock due to all fishing activities, including targeted fishing, bycatch and discards, and other incidental mortality in other fisheries.">fishing mortality</abbr></span></li>
 
-<li><span class="gc-dwnld-info"><abbr title="Gear selectivity: the size or age at which fish are vulnerable to the fishing gear used.">gear selectivity</abbr></span></li>
+<li><span class="gc-dwnld-info"><abbr title="Gear selectivity: the likelihood of retention once a fish enters fishing gear. Gear selectivity is affected by gear design, such as mesh type and size, escape panels, hook size).">gear selectivity</abbr></span></li>
 </ul>
-<p>Fishery-dependent data can be collected over time to produce valuable data time series for stock assessment. For example, information on total catch over time is a common and key input to many stock assessment models.</p>
+<p>Fishery-dependent data can be collected over time to produce valuable data time series for stock assessment. For example, information on total catch over time is a common and key input to many stock assessment <span class="gc-dwnld-info"><abbr title="Models are tools used to simplify a natural system so it can be more easily understood.">models</abbr></span>.</p>
 
 
 <?php include "includes/after.php"; ?>

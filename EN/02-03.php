@@ -29,6 +29,8 @@
 <p>Atlantic Cod supported a significant fishery throughout the 18th and 19th centuries (upwards of 300,000 tonnes). By the 1950s, technology and seafood markets began to rapidly change, and fishing pressure increased on the stock. Misinterpretations of elevated catch contributed to overestimation of stock size, inflated <span class="gc-dwnld-info"><abbr title="Quota: See also Total Allowable Catch: A catch limit set for a particular fishery. ">quotas</abbr></span>, and unsustainable  <span class="gc-dwnld-info"><abbr title="Fishing mortality (F): measure of deaths in a stock due to all fishing activities, including targeted fishing, bycatch and discards, and other incidental mortality in other fisheries.">fishing mortality</abbr></span> in the 1980s and early 1990s. Substantial declines in catches and stock <span class="gc-dwnld-info"><abbr title="Biomass (B): the total weight of all fish in a stock.">biomass</abbr></span> resulted in a moratorium in 1992.</p>
 </aside>
 
+<h3>Fishery-independent data</h3>
+
 <section style='background:white;padding-top:0;'>
   <div class='row imagetext'>
     <div class='col-sm-6'>
@@ -41,7 +43,7 @@
 
     </div>
     <div class='col-sm-6'>
-      <p>Fishery-independent data are collected through monitoring activities outside of fisheries. Monitoring surveys can cover broader geographic areas than commercial, recreational, and Indigenous FSC fisheries. They can also be conducted at different times of the year than harvesting.
+      <p>Fishery-independent data can help to address the gaps in fishery-dependent data. Fishery-independent data are collected through monitoring activities outside of fisheries. Monitoring uses routine practices to collect fisheries data and track changes over time. Monitoring surveys can cover broader geographic areas than commercial, recreational, and Indigenous FSC fisheries. They can also be conducted at different times of the year than harvesting.
       </p>
     </div>
   </div>

@@ -54,9 +54,9 @@
 
 <p>Les participants doivent rester à la réunion et y participer pendant toute sa durée. Ils doivent jouer un rôle actif pour parvenir à un <span class="gc-dwnld-info"><abbr title="Consensus : une absence d’opposition sur les conclusions et avis.">consensus</abbr></span> sur les conclusions. Ils doivent s’engager à participer en tant qu’experts objectifs (c.-à-d. ne pas défendre ou représenter activement un groupe d’intérêt, un groupe politique, un client ou un promoteur).</p>
 
-<p>Politique: <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/peer-participation-pairs-fra.html">Secrétariat canadien des avis scientifiques -
-Politique sur la participation dans les réunions d’examen par les pairs</a></p>
-<p>Guide: <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/meetings-reunions-fra.html">Secrétariat canadien des avis scientifiques -
-Guide à l’intention des participants aux réunions d’examen scientifique par les pairs</a></p>
+Pour plus d'informations, cliquez ici pour consulter <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/peer-participation-pairs-fra.html">La politique sur la participation dans les réunions d'examen par les pairs</a> et <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/meetings-reunions-fra.html">Le guide à l'intention des participants aux réunions d'examen par les pairs</a>.
+
+<p>Politique: </p>
+<p>Guide: </p>
 
 <?php include "includes/after.php"; ?>

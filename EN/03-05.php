@@ -20,7 +20,7 @@ Photo credit: Kendra Holt, DFO
 </figure>
 
 
-<p>MSE provides opportunities for collaboration between scientists, managers, <span class="gc-dwnld-info"><abbr title="Rights-holders: modern successors to the Indigenous collectives that signed treaties, occupied and used land, and engaged in historic practices that support a finding of an Aboriginal right or Aboriginal title.">Rights-holders</abbr></span>, and stakeholders to:  </p>
+<p>MSE provides opportunities for collaboration between scientists, fisheries managers, <span class="gc-dwnld-info"><abbr title="Rights-holders: modern successors to the Indigenous collectives that signed treaties, occupied and used land, and engaged in historic practices that support a finding of an Aboriginal right or Aboriginal title.">Rights-holders</abbr></span>, and stakeholders to:  </p>
 <ul>
 <li>develop measurable objectives and timelines</li>
 <li>propose potential management strategies</li>

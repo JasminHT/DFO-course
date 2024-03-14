@@ -5,7 +5,7 @@
   $page_description = "Developing a reusable template for building DFO elearning pages in the GCWeb theme";
 
   $prev_module = 1;
-  $prev_page = 15;
+  $prev_page = 14;
   
   include "includes/before.php"; 
 ?>

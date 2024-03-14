@@ -22,7 +22,7 @@ if (!isset($module)) {
         <strong>Unité 1.1 :</strong> Approche canadienne des sciences halieutiques</a></li>
         <li><a href="01-09.php" class="list-group-item">
         <strong>Unité 1.2 :</strong> Qu’est-ce que l’évaluation des stocks?</a></li>
-        <li><a href="01-12.php" class="list-group-item">
+        <li><a href="01-11.php" class="list-group-item">
         <strong>Unité 1.3 :</strong> État des stocks et points de référence</a></li>
       </ul>
       <?php } ?>

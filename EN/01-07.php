@@ -25,6 +25,7 @@
     </ul>
 
     <aside class='bg-info'>
+      <h4>Definition: </h4>
     <h4>What are Indigenous Ways of Knowing?</h4>
     <p>There is no universal definition of Indigenous Ways of Knowing. Its composition is determined by First Nations, Inuit, and Métis using their own terms. Indigenous Ways of Knowing may include Indigenous:</p>
     <ul>  

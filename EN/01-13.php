@@ -7,36 +7,49 @@
 ?>
 
 <h2>Unit 1.3:  Stock status and reference points</h2>
-    
 
-
-    <aside class='bg-info'><strong>Maximum sustainable yield (MSY)</strong> is the maximum average annual catch that can be removed from a stock over an indefinite period of time under current environmental conditions. In other words, it is the maximum harvest a stock can sustain over the long term without impairing the stock’s ability to replenish itself.</aside>
-
-    <p>The average <span class="gc-dwnld-info"><abbr title="Biomass (B): the total weight of all fish in a stock.">biomass</abbr></span> that comes from fishing a stock to deliver the maximum sustainable yield at the point of maximum growth rate is referred to as <strong>B<sub>MSY</sub></strong>.</p>
-    <p>B<sub>MSY</sub> is commonly used to inform reference points. For example, a stock may be considered in the:</p>
-    <ul>
-    <li>critical zone if the biomass is less than 40% of B<sub>MSY</sub></li>
-    <li>cautious zone if the biomass is above 40% but less than 80% of B<sub>MSY</sub></li>
-    <li>healthy zone if the biomass is higher than 80% of B<sub>MSY</sub></li>
-    </ul>
-    <p>Reference points for a stock may use other metrics and be set lower or higher than this example, depending on the biology of the stock and the objectives for the fishery. In any case, reference points should be suitably robust to uncertainty and appropriate for the stock and the fishery to be consistent with DFO’s <a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/precaution-eng.htm">Precautionary Approach Policy</a>.</p>
-
-<figure class='image-transcript' >
-      <img alt=''      src="../images/MSY-EN.png">
-        <figcaption style="margin-top: 5px !important">
-          <details id="inline-captions">
-            <summary>Long description<br></summary>
-            <div class="mwsbodytext text parbase section">
-          <p>This figure is a simplified illustration to show yield on the y-axis versus stock biomass on the x-axis. The yield is shown by the solid black line. The peak of the curve, shown as MSY, is the point at which the maximum average annual catch that can be removed from a stock over an indefinite period of time under current environmental conditions occurs.</p>
-
-            </div>
-        </details>
-      </figcaption>
+<figure>
+  <img src="../images/manila_clam-palourde_japonaise.jpg">
+  <figcaption> Manila clams on a beach. <br>Photo credit: DFO</figcaption>
 </figure>
 
-   
+<p>Indicators are often used to describe what is known about a stock’s status.</p>
+
+<aside class='bg-info'>
+  <h4>Definition: </h4>
+<p><strong>Indicators</strong> are measurements that provide information on the state of a stock attribute of interest. They can be assessed against thresholds that, if crossed, signal a change in stock status. Common indicators include:</p> 
+  <ul>
+<li>  <span class="gc-dwnld-info"><abbr title="Abundance (N): total number of fish in a stock.">abundance</abbr></span></li>
+<li><span class="gc-dwnld-info"><abbr title="Biomass (B): the total weight of all fish in a stock.">biomass</abbr></span></li>
+<li> <span class="gc-dwnld-info"><abbr title="Spawning stock biomass (SSB): the total weight of all fish in a stock that have reached reproductive maturity.">spawning stock biomass</abbr></span></li>
+</ul>
+</aside>
+
+<p>An indicator that is calculated using consistent or comparable methodology over time can be used to develop a relative index. Where data is limited, relative indices may be used in stock assessments to track trends.</p>
+ 
+<p>Stock indicators can be influenced by: </p>
+  <ul>
+<li>prey availability</li>
+<li>predator abundance</li>
+<li>climate change and other environmental conditions</li>
+</ul>
+
+<p>Incorporating these broader ecosystem considerations into stock assessments contributes to an <span class="gc-dwnld-info"><abbr title="Ecosystem approach to fisheries management (EAFM): incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on one stock have consequences to others.">ecosystems approach to fisheries management</abbr></span>. </p>
+
+<p>Some stock assessments may include information on ecosystems and environmental conditions to improve the interpretation of historical information and the accuracy of projections. This can include:</p>
+<ul>
+  <li>oceanographic conditions </li>
+  <li>hydrographic conditions</li>
+  <li>availability of food or prey</li>
+  <li>predation</li>
+  <li>habitat</li>
+  <li>climate change</li>
+</ul>
 
 
+<aside class='bg-warning'>
+  <h4>Key concept: </h4>
+  Climate change poses serious risks to the future of Canada’s fisheries. The <a href="https://laws-lois.justice.gc.ca/eng/acts/F-14/page-1.html"><i>Fisheries Act</i></a> requires DFO to consider environmental conditions affecting stocks in the development and implementation of management action. Across Canada, DFO scientists are exploring the ecosystem impacts of changing ocean conditions, such as oxygen depletion and sea ice loss, by studying the response of various fish stocks to these changes.</aside>
 
 
 <?php include "includes/after.php"; ?>

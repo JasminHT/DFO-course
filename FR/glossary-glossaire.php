@@ -17,7 +17,7 @@
 
 
 
-
+ 
   <h2>Glossaire</h2>
   <p>Voici les définitions de certains termes techniques que l’on trouve au cours d’Introduction à l’évaluation des stocks.</p>
   <p></p>
@@ -28,13 +28,15 @@
 <dt>Abondance (N) : </dt><dd>Nombre total de poissons dans un stock.</dd>
 <dt>Appauvrissement : </dt><dd>Mesure de la biomasse actuelle d’un stock par rapport à la biomasse moyenne non pêchée.</dd>
 <dt>Approche de précaution : </dt><dd>Faire preuve de prudence lorsque les données scientifiques sont incertaines, peu fiables ou insuffisantes. Le manque ou l’absence d’informations scientifiques n’est pas un prétexte pour retarder ou empêcher la prise de mesures adéquates afin d’éviter de graves dommages à une ressource.</dd>
-<dt>Approche écosystémique de la gestion des pêches (AEP) : </dt><dd>Intègrer les considérations environnementales dans l’évaluation des stocks. Elle mène à une prise de décisions plus éclairée parce qu’elle inclut l’impact non seulement de la pêche, mais aussi des facteurs écosystémiques et environnementaux.</dd>
+<dt>Approche écosystémique de la gestion des pêches (AEP) : </dt><dd>L’AEP intègre des variables écosystémiques (par exemple, des facteurs climatiques, océanographiques et écologiques) dans les évaluations des stocks d'une seule espèce et dans les avis scientifiques afin de mieux éclairer la prise de décision. Cela est particulièrement important lorsque les interactions prédateur-proie indiquent que les décisions de gestion concernant un stock ont des conséquences sur d'autres stocks.</dd>
 <dt>Analyse de sensibilité : </dt><dd>Permettre aux scientifiques d’explorer les effets de l’incertitude et des hypothèses en testant différents scénarios (comme une variation aléatoire dans le recrutement ou différents facteurs environnementaux ayant une incidence sur la mortalité naturelle).</dd>
 <dt>Biomasse (B) : </dt><dd>Le poids total de tous les poissons d’un stock.</dd>
 <dt>Biomasse du stock reproducteur (BSR) : </dt><dd>Poids total de tous les poissons d’un stock qui ont atteint la maturité de reproduction.</dd>
 <dt>Biomasse non exploitée : </dt><dd>Poids total des poissons d’un stock lorsqu’il n’est pas exploité.</dd>
 <dt>Capacité de charge (K) : </dt><dd>La taille du stock est limitée par des facteurs environnementaux et la disponibilité des ressources.</dd>
 <dt>Capture par unité d’effort : </dt><dd>Quantité de poissons capturés avec une unité standard d’effort de pêche (par exemple, le nombre de poissons capturés pour 1000 hameçons par jour ou le poids des poissons capturés par heure de chalutage). La CPUE est souvent considérée comme un indice d’abondance relative (c’est-à-dire qu’elle est proportionnelle à la part de la biomasse (ou des effectifs) du stock qui est vulnérable à l’engin de pêche).</dd>
+<dt>Capturabilité : </dt>
+<dd>Un concept qui reflète l'efficacité d'une pêcherie. Il s'agit de la combinaison de la disponibilité (la probabilité qu'un poisson entre dans l'engin de pêche) et de la sélectivité (la probabilité de rétention une fois qu'un poisson entre dans l'engin de pêche). La sélectivité de l'engin est influencée par sa conception (type et taille des mailles, panneaux d'échappement, taille des hameçons).</dd>
 <dt>Casier : </dt><dd> Engins de pêche statiques qui fonctionnent passivement pour attraper ou piéger les poissons qui s’en approchent ou qui y pénètrent.</dd>
 
 <dt>Chalutage : </dt><dd>Méthode de pêche qui consiste à tirer derrière un ou plusieurs bateaux un filet de pêche lourdement lesté pour le maintenir sur le fond marin dans l’eau. Le filet utilisé pour le chalutage est appelé chalut.</dd>
@@ -46,6 +48,8 @@
 <dt>Dommages grave : </dt><dd>Un stock de poissons subissant des dommages graves peut être épuisé au point de voir sa productivité ou sa capacité de reproduction diminuée. Par conséquent, le stock serait moins résistant à la pêche et ne pourrait pas se reconstituer facilement. Les dommages graves peuvent être irréversibles ou n’être que lentement réversibles à long terme et peuvent être dus à la pêche, à d’autres impacts anthropiques ou à des causes naturelles.</dd>
 <dt>Données dépendantes de la pêche :</dt><dd> Recueillies directement auprès des pêches commerciales, récréatives ou autochtones à des fins alimentaires, sociales et rituelles (ASR).</dd>
 <dt>Données indépendantes de la pêche :</dt><dd> Recueillies en dehors des pêches.</dd>
+<dt>Disponibilité : </dt>
+<dd>La probabilité qu'un poisson entre dans l'engin de pêche.</dd>
 <dt>Dragage : </dt><dd>Méthode de pêche dans laquelle une drague est traînée sur le fond marin, en le grattant ou en y pénétrant.</dd>
 <dt>État du stock : </dt><dd>Une décision prise, sur la base des résultats de l’évaluation du stock, au sujet de l’état actuel du stock.</dd>
 <dt>Effort de pêche : </dt><dd>Une mesure de l’activité de pêche utilisant des paramètres comme&nbsp;:
@@ -66,6 +70,7 @@
 <dt>Hypothèse : </dt><dd>Énoncé introduit dans un argument et (temporairement) accepté comme étant vrai. </dd>
 <dt>Incertitude : </dt><dd>L’incomplétude des connaissances concernant un système naturel.</dd> <dt>Indicateurs : </dt><dd>Mesures qui renseignent sur l’état d’une composante d’intérêt du stock. Une série d’indicateurs dans le temps crée un indice. </dd>
 <dt>Intervenants : </dt><dd>Pour cette formation, personnes ou organisations qui s’intéressent aux sciences halieutiques et à la gestion des pêches et du milieu marin.</dd>
+<dt>Modèles : </dt><dd>Des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre. </dd>
 <dt>Modèles opérationnels : </dt><dd>Des modèles informatiques qui simulent la croissance, la reproduction et l’interaction des stocks de poissons avec l’environnement. </dd>
 <dt>Modes de connaissance autochtones : </dt><dd>Il n’existe pas de définition universelle des Modes de connaissance autochtones. Leur composition est déterminée par les Premières Nations, les Inuits et les Métis selon leurs propres termes. Les Modes de connaissance autochtones peut inclure les systèmes du savoir autochtones, science (p. ex. la recherche et la surveillance menées par les peuples Autochtones), langues, visions du monde, et valeurs autochtones. </dd>
 
@@ -125,12 +130,12 @@ La mesure des mortalités dans un stock dues à toutes les causes autres que la 
 <dt>Relations stock-recrutement : </dt><dd>Les relations entre l’abondance ou la biomasse des adultes reproducteurs d’un stock et le nombre prévu de recrues qu’ils peuvent produire chaque année.</dd>
 <dt>Rendement maximal durable (RMD) : </dt><dd>La prise annuelle moyenne maximale qui peut être prélevée d’un stock sur une période indéfinie dans les conditions environnementales actuelles.</dd>
 <ul>
-  <li><dt> B<sub>RMD</sub> : </dt><dd>La biomasse moyenne provenant de la récolte d’un stock et qui permet d’offrir le rendement maximal durable au taux de croissance maximal.</dd></li>
+  <li><dt> B<sub>RMD</sub> : </dt><dd>La biomasse du stock qui produit le rendement maximal durable est appelée la B<sub>RMD</sub>.</dd></li>
 </ul>
 
 <dt>Recrutement non exploité : </dt><dd>Recrutement prévu si le stock de poissons n’est pas exploité.</dd>
 <dt>Rendement par recrue : </dt><dd>La prise attendue en poids produite sur toute la durée de vie d’un poisson recruté dans le stock.</dd>
-<dt>Sélectivité de l’engin : </dt><dd>Taille ou âge auquel les poissons sont vulnérables à l’engin de pêche utilisé.</dd>
+<dt>Sélectivité : </dt><dd>La probabilité de rétention une fois qu'un poisson entre dans l'engin de pêche). La sélectivité de l'engin est influencée par sa conception (type et taille des mailles, panneaux d'échappement, taille des hameçons).</dd>
 <dt>Senne : </dt><dd>Filet de pêche qui pend verticalement dans l’eau et est muni de flotteurs en haut et de lests en bas; les extrémités sont rapprochées pour encercler les poissons.</dd>
 <dt>Stock : </dt><dd>Groupe de poissons de la même espèce ayant un ou plusieurs attributs communs qui sont d’intérêts pour les gestionnaires.</dd>
 <dt>Tableaux de décision : </dt><dd> Moyen simple de presenter des avis sur les consequences et les compromise possibles qui accompagnent différentes décisions.</dd>

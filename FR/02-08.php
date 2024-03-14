@@ -8,13 +8,13 @@
 
 <h2>Unité 2.3 : Recherche</h2>
 
-<p>Des recherches précises sur les pêches sont menées pour combler les lacunes dans notre compréhension des pêches. Les domaines courants de la recherche halieutique sont les suivants :</p>
+<p>Outre les relevés, la recherche halieutique vise à générer de nouvelles connaissances ou une nouvelle compréhension en explorant des questions nouvelles. Des recherches précises sur les pêches sont menées pour combler les lacunes dans notre compréhension des pêches. Les domaines courants de la recherche halieutique sont les suivants :</p>
 <ul>
   <li>mieux connaître la biologie des stocks de poissons et les facteurs qui influencent sur la taille, la structure, la répartition et les déplacements des populations de poissons&nbsp;;</li>
   <li>mieux comprendre la façon dont les mesures de gestion peuvent influencer sur les stocks, comme l’établissement de tailles minimales pour les prises ou la protection des frayères&nbsp;;</li>
   <li>examiner les impacts possibles des changements climatiques&nbsp;;</li>
   <li>explorer de nouvelles technologies qui pourraient améliorer la surveillance des stocks de poissons ou permettre de la rendre plus fréquente ou moins invasive&nbsp;;</li>
-  <li>élaborer des méthodes quantitatives novatrices, comme de nouveaux modèles mathématiques&nbsp;;</li>
+  <li>élaborer des méthodes quantitatives novatrices, comme de nouveaux <span class="gc-dwnld-info"><abbr title="Les modèles sont des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre.">modèles</abbr></span> mathématiques&nbsp;;</li>
   <li>recueillir des renseignements supplémentaires sur les écosystèmes et les interactions entre leurs diverses composantes environnementales ou biologiques.</li>
 
 </ul>

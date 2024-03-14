@@ -8,8 +8,10 @@
 
 <h2>Unit 2.4: Model-based stock assessments</h2>
 
-
-
+<aside class='bg-info'>
+  <h4>Definition: </h4>
+<p><strong>Models</strong> are tools used to simplify a natural system so it can be more easily understood. Mathematics and statistics are the language used to write models down. Different models can be used for different stock assessments based on data availability and assessment objectives.</p>
+</aside>
 
 <figure class="wb-mltmd video-embed">
 

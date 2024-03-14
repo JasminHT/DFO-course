@@ -8,13 +8,13 @@
 
 <h2>Unit 2.3: Research</h2>
 
-<p>Dedicated fisheries research is carried out to fill gaps in our understanding of fisheries. Common areas of fishery research include:</p>
+<p>In addition to monitoring, fisheries research is focused on generating new knowledge or understanding by exploring novel questions. Dedicated fisheries research is carried out to fill gaps in our understanding of fisheries. Common areas of fishery research include:</p>
 <ul>
 <li>increasing knowledge of fish stock biology and factors affecting fish population size, structure, distribution, and movements</li>
 <li>improving understanding of how management measures may affect stocks, such as setting minimum catch sizes or protecting spawning areas</li>
 <li>exploring potential impacts of climate change</li>
 <li>exploring new technologies that may improve or enable more frequent or less invasive fish stock monitoring</li>
-<li>developing innovative quantitative methods, such as new mathematical models</li>
+<li>developing innovative quantitative methods, such as new mathematical <span class="gc-dwnld-info"><abbr title="Models are tools used to simplify a natural system so it can be more easily understood.">models</abbr></span></li>
 <li>collecting additional information about ecosystems and how various environmental or biological components interact</li>
 </ul>
 

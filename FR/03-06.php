@@ -18,7 +18,7 @@ Source de la photo : MPO
 </figure>
 
 
-<p>Compte tenu de l’utilisation de techniques statistiques, de la formulation d’hypothèses et du caractère généralement incomplet des connaissances sur les systèmes naturels, toutes les évaluations de stocks comportent intrinsèquement un certain degré d’incertitude. Les scientifiques formulent des <span class="gc-dwnld-info"><abbr title="Hypothèse : Énoncé introduit dans un argument et (temporairement) accepté comme étant vrai. ">hypothèses</abbr></span> logiques et défendables au sujet des stocks afin de fournir aux gestionnaires des avis en vue de la prise de décisions.</p>
+<p>Compte tenu de l’utilisation de techniques statistiques, de la formulation d’hypothèses et du caractère généralement incomplet des connaissances sur les systèmes naturels, toutes les évaluations de stocks comportent intrinsèquement un certain degré d’incertitude. Les scientifiques formulent des <span class="gc-dwnld-info"><abbr title="Hypothèse : Énoncé introduit dans un argument et (temporairement) accepté comme étant vrai. ">hypothèses</abbr></span> logiques et défendables au sujet des stocks. Il est essentiel que les scientifiques communiquent l'incertitude afin de fournir aux gestionnaires des avis en vue de la prise de décision.
 
 <p>L’incertitude ne signifie pas qu’une erreur ait été commise. Elle signifie qu’il y a un éventail de résultats possibles, dont certains sont plus susceptibles de se produire que d’autres. Elle peut également signifier qu’il n’y avait pas suffisamment de données pour distinguer les résultats plausibles.</p>
 
@@ -34,5 +34,9 @@ Source de la photo : MPO
 
 <p>Le MPO intègre l’incertitude dans le calcul de <span class="gc-dwnld-info"><abbr title="L’état du stock : fait référence à une décision prise, sur la base des résultats de l’évaluation du stock, au sujet de l’état actuel du stock.">l’état du stock</abbr></span> et des <span class="gc-dwnld-info"><abbr title="Point de référence : un repère par rapport auquel la biomasse ou l’abondance du stock ou le taux de mortalité par pêche (ou taux d’exploitation) peuvent être mesurés afin de déterminer son état. Ces points de référence peuvent être des objectifs, des seuils ou des limites, selon l’usage auquel ils sont destinés.">points de référence</abbr></span>.</p>
 
+<aside class='bg-warning'>
+      <h4>Concept clé : </h4>
+  Rappel : Le MPO utilise une <a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/precaution-back-fiche-fra.htm"><b>approche de précaution</b></a> pour gérer les pêches. En d’autres termes, le Ministère doit faire preuve de prudence lorsque les données scientifiques sont incertaines, peu fiables ou insuffisantes. Le manque ou l’absence d’informations scientifiques n’est pas un prétexte pour retarder ou empêcher la prise de mesures adéquates afin d’éviter de <span class="gc-dwnld-info"><abbr title="Dommages grave : Un stock de poissons subissant des dommages graves peut être épuisé au point de voir sa productivité ou sa capacité de reproduction diminuée. Par conséquent, le stock serait moins résistant à la pêche et ne pourrait pas se reconstituer facilement. Les dommages graves peuvent être irréversibles ou n’être que lentement réversibles à long terme et peuvent être dus à la pêche, à d’autres impacts anthropiques ou à des causes naturelles.">graves dommages</abbr></span> à une ressource.
+</aside>
 
 <?php include "includes/after.php"; ?>

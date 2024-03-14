@@ -17,6 +17,7 @@ Source de la photo : MPO
   
 
 <aside class='bg-info'>
+  <h4>Définition : </h4>
 <p>Les données scientifiques utilisées dans les évaluations des stocks peuvent provenir de diverses sources qui sont regroupées en 2 catégories :</p>
 <ul>
   <li>les <strong>données dépendantes de la pêche</strong> sont recueillies directement auprès des pêches commerciales, récréatives ou autochtones à des fins alimentaires, sociales et rituelles (ASR)&nbsp;;</li>
@@ -27,7 +28,7 @@ Source de la photo : MPO
 
 
 <aside class='bg-warning'>
-
+    <h4>Concept clé : </h4>
   <p>La principale différence entre les 2 catégories de données est la suivante : </p>
   <ul>
     <li>les données dépendantes de la pêche sont recueillies là où la pêche a lieu&nbsp;;</li>
@@ -39,7 +40,7 @@ Source de la photo : MPO
 </aside>
 
 
-  <p>Les emplacements pour l’échantillonnage indépendant de la pêche sont souvent sélectionnés selon une approche stratifiée aléatoire : une zone géographique est divisée en sections (appelées strates) en fonction de certaines caractéristiques (p. ex. kilomètres carrés, profondeur). Les strates peuvent être choisies au hasard pour refléter plus précisément l’ensemble du stock dans les données. </p>
+<h3>Les données dépendantes de la pêche</h3>
   
 <p>Les données dépendantes de la pêche recueillies par les pêches commerciales, récréatives et autochtones à des fins alimentaires, sociales et rituelles (ASR) comprennent : </p>
 <ul>
@@ -97,9 +98,9 @@ Source de la photo : MPO
 
 
 
-<li><span class="gc-dwnld-info"><abbr title="Sélectivité de l’engin : Taille ou âge auquel les poissons sont vulnérables à l’engin de pêche utilisé.">sélectivité des engins</abbr></span>.</li>
+<li><span class="gc-dwnld-info"><abbr title="Sélectivité de l’engin : La probabilité de rétention une fois qu'un poisson entre dans l'engin de pêche). La sélectivité de l'engin est influencée par sa conception (type et taille des mailles, panneaux d'échappement, taille des hameçons).">sélectivité des engins</abbr></span>.</li>
 </ul>
-<p>Les données dépendantes de la pêche peuvent être recueillies au fil du temps afin de produire des séries chronologiques de données utiles pour l’évaluation des stocks. Par exemple, l’information sur les prises totales dans le temps est un intrant courant et clé de nombreux modèles d’évaluation des stocks.</p>
+<p>Les données dépendantes de la pêche peuvent être recueillies au fil du temps afin de produire des séries chronologiques de données utiles pour l’évaluation des stocks. Par exemple, l’information sur les prises totales dans le temps est un intrant courant et clé de nombreux <span class="gc-dwnld-info"><abbr title="Les modèles sont des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre.">modèles</abbr></span> d’évaluation des stocks.</p>
 
 
 <?php include "includes/after.php"; ?>

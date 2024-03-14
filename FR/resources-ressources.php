@@ -26,8 +26,6 @@
 
 <li><a href="https://www.dfo-mpo.gc.ca/fisheries-peches/sdc-cps/index-fra.html">Exigences relatives à la pêche commerciale</a>  </li>
 
-<li><a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/guidelines-lignes-directrices-fra.htm">Lignes directrices pour la mise en œuvre des dispositions relatives aux stocks de poissons de la Loi sur les pêches</a>  </li>
-
 <li><a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/overview-cadre-fra.htm">Cadre pour la pêche durable  </a></li>
 
 <li><a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/precaution-fra.htm">Un cadre décisionnel pour les pêches intégrant l’approche de précaution</a>  </li>

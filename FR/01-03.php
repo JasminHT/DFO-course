@@ -8,10 +8,21 @@
 
 <h2>Unité 1.1 : Approche canadienne des sciences halieutiques</h2>
 
+<aside class='bg-info'>
+  <h4>Définition : </h4>
+  <p>Tout au long de cette formation et en vertu de la <a href="https://laws-lois.justice.gc.ca/fra/lois/f-14/page-1.html"><i>Loi sur les pêches</i></a>, le terme <strong>poisson</strong> désigne :</p>
+  <ul>
+    <li>les poissons, les mollusques, les crustacés et les animaux marins&nbsp;;</li>
+    <li>toute partie des poissons, des mollusques, des crustacés et des animaux marins&nbsp;;</li>
+    <li>les œufs, le sperme, la laitance, les larves, le naissain et les stades juvéniles des poissons, des mollusques, des crustacés et des animaux marins.</li>
+  </ul>
+</aside>
 
-<aside class='bg-info'>Une <strong>population</strong> est un groupe d’individus de la même espèce qui occupent un espace donné et qui se reproduisent entre eux. </aside>
+<aside class='bg-info'><h4>Définition : </h4>
+  Une <strong>population</strong> est un groupe d’individus de la même espèce qui occupent un espace donné et qui se reproduisent entre eux. </aside>
 
 <aside class='bg-info'>
+  <h4>Définition : </h4>
   <p>Les <strong>stocks de poissons</strong> sont des groupes de poissons de la même espèce ayant un ou plusieurs attributs communs qui sont d’intérêts pour les gestionnaires. Les stocks de poissons sont souvent définis par une zone de gestion et peuvent comprendre :</p>
   <ul>
     <li>une seule population&nbsp;;</li>
@@ -23,14 +34,7 @@
 <p>Les poissons de différents stocks peuvent aussi se mélanger ou migrer d’une zone de gestion à l’autre.  Les stocks de poissons en santé apportent plusieurs bénéfices économiques et sociaux aux communautés côtières. Une saine gestion des stocks revêt une importance cruciale pour la préservation d’écosystèmes stables et résilients. Ces stocks fournissent des biens et services écologiques essentiels à l’ensemble de la population canadienne.</p>
 
 
-<aside class='bg-info'>
-  <p>Tout au long de cette formation et en vertu de la <a href="https://laws-lois.justice.gc.ca/fra/lois/f-14/page-1.html"><i>Loi sur les pêches</i></a>, le terme <strong>poisson</strong> désigne :</p>
-  <ul>
-    <li>les poissons, les mollusques, les crustacés et les animaux marins&nbsp;;</li>
-    <li>toute partie des poissons, des mollusques, des crustacés et des animaux marins&nbsp;;</li>
-    <li>les œufs, le sperme, la laitance, les larves, le naissain et les stades juvéniles des poissons, des mollusques, des crustacés et des animaux marins.</li>
-  </ul>
-</aside>
+
 
 <aside>
   

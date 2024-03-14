@@ -15,22 +15,6 @@
 </ul>
 
 <aside>
-  <h3>Example: Short-lived species</h3>
-
-  <div class='row imagetext'>
-    <div class='col-sm-6'>
-
-      <figure>  
-        <img src="../images/capelin-bucket.jpg" alt="Capelin in a bucket">
-        <figcaption>Photo credit: DFO</figcaption>
-
-      </figure>
-    </div>
-    <div class='col-sm-6'>
-        <p>Capelin rarely live for longer than 5 years. Most die after they spawn.</p>
-    </div>
-  </div>
-
 
   <h3>Examples of long-lived species</h3>
 
@@ -66,7 +50,7 @@
 
 <p>Stock assessments can require large amounts of data, collected over multiple years. The amount of data collected for a stock depends on various factors, such as area accessibility or the existence of collection methodology.  Species can be widely distributed and require significant sampling effort to collect data across their range. </p>
 
-<p>Sometimes, only a limited amount of data can be collected for a stock. Data-limited stock assessments can be conducted but may rely on alternative methods like making more <span class="gc-dwnld-info"><abbr title="Assumption: a statement introduced into an argument that is accepted as being true.">assumptions</abbr></span>  using information about closely-related species. Uncertainty can also be addressed with expert judgement. 
+<p>Sometimes, only a limited amount of data can be collected for a stock. Data-limited stock assessments can be conducted but may rely on alternative methods like making more <span class="gc-dwnld-info"><abbr title="Assumption: a statement introduced into an argument that is accepted as being true.">assumptions</abbr></span>  using information about closely-related species. Uncertainty may also be addressed with expert judgement. 
 </p>
 
 

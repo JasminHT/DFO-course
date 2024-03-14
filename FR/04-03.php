@@ -46,20 +46,19 @@
 
 </ul>
 
-<figure class='image-transcript'>
+<figure>
   <img src="../images/canada-map.jpg" alt='Une carte des sept régions du MPO : Arctique, Pacifique, Ontario et Prairies, Québec, Golfe, Maritimes et Terre-Neuve-et-Labrador.'>
   <figcaption>
-    <details id="inline-captions">
-      <summary>Description</summary>      
-      <p>La région de l’Arctique comprend le versant nord du Yukon, les Territoires du Nord-Ouest, le Nunavut, le Nunavik, le Nunatsiavut, la baie d’Hudson et la baie James. Ces limites englobent l’Inuit Nunangat.</p>
+    Une carte montrant les limites entre les 7 régions du MPO.
+  </figcaption>
+</figure>
+
+<p>La région de l’Arctique comprend le versant nord du Yukon, les Territoires du Nord-Ouest, le Nunavut, le Nunavik, le Nunatsiavut, la baie d’Hudson et la baie James. Ces limites englobent l’Inuit Nunangat.</p>
 <p>La région du Pacifique comprend la Colombie-Britannique et le Yukon, à l’exception du versant nord du Yukon.</p>
 <p>La région de l’Ontario et des Prairies comprend l’Ontario, le Manitoba, la Saskatchewan et l’Alberta.</p>
 <p>La région du Québec comprend le Québec, à l’exception de la région du Nunavik dans le nord de la province.</p>
 <p>La région du Golfe s’étend de la frontière entre le Nouveau-Brunswick et le Québec jusqu’à l’extrémité nord du Cap-Breton.</p>
 <p>La région des Maritimes s’étend de l’extrémité nord du Cap-Breton jusqu’à la frontière entre le Nouveau-Brunswick et le Maine.</p>
 <p>La région de Terre-Neuve-et-Labrador comprend Terre-Neuve-et-Labrador, à l’exception de la région du Nunatsiavut au Labrador.</p>
-    </details>
-  </figcaption>
-</figure>
 
 <?php include "includes/after.php"; ?>

@@ -21,8 +21,17 @@
 
 <p>Les relevés répétés (p. ex. tous les ans) produisent une série chronologique de données qui peut montrer l’évolution des stocks dans le temps. </p>
 
+<p>Les relevés peuvent être :</p>
+<ul>
+  <li>fixes : échantillonner la même unité (lieu, individu) au fil du temps ;</li>
+  <li>aléatoires : chances égales d'échantillonner n'importe quelle unité du stock ;</li>
+  <li>aléatoire stratifiée : chances égales d'échantillonner n'importe quelle unité à l'intérieur de sous-ensembles du stock.</li>
+</ul>
 
-<aside class='bg-warning'>Le MPO encourage la surveillance autochtone qui fait appel aux compétences locales et aux Modes de connaissance autochtones. Elle permet d’établir des ensembles de données à long terme qui peuvent faciliter la conservation des stocks tout en respectant la culture et l’autonomie.</aside>
+<p>Les emplacements pour l’échantillonnage indépendant de la pêche sont souvent sélectionnés selon une approche stratifiée aléatoire : une zone géographique est divisée en sections (appelées strates) en fonction de certaines caractéristiques (p. ex. kilomètres carrés, profondeur). Les strates peuvent être choisies au hasard pour refléter plus précisément l’ensemble du stock dans les données.</p>
+
+<aside class='bg-warning'>
+  Le MPO encourage la surveillance autochtone qui fait appel aux compétences locales et aux Modes de connaissance autochtones. Elle permet d’établir des ensembles de données à long terme qui peuvent faciliter la conservation des stocks tout en respectant la culture et l’autonomie.</aside>
 
 <aside>
 

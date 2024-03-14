@@ -27,6 +27,7 @@
 
   
   <aside class='bg-warning'>
+    <h4>Key concept: </h4>
     <p>DFO takes a <a href="https://www.dfo-mpo.gc.ca/reports-rapports/regs/sff-cpd/precaution-back-fiche-eng.htm"><strong>precautionary approach</strong></a> to fisheries management. This means being cautious when scientific information is uncertain, unreliable, or inadequate and not using the absence of adequate scientific information as a reason to postpone or fail to take action to avoid <span class="gc-dwnld-info"><abbr title="Serious harm: a fish stock experiencing serious harm may be depleted to the point where it has impaired productivity or reproductive capacity. As a result, the stock would be less resilient to fishing and could not easily rebuild. Serious harm may be irreversible, or only slowly reversible over the long-term, and can be due to fishing, other human-induced impacts, or natural causes.">serious harm</abbr></span>  to a resource. </p>
 
 

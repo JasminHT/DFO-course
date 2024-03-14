@@ -8,7 +8,58 @@
 
 <h2>Unité 1.2 : Qu’est-ce que l’évaluation des stocks?</h2>
 
-<aside class='bg-info'><strong>L’évaluation des stocks</strong> est le processus scientifique d’analyse des données pour estimer l’abondance et la productivité passées, présentes et futures des stocks de poissons. C’est le pilier d’une gestion des pêches scientifiques réussie.  </aside>
+<aside class='bg-info'>
+  <h4>Définition : </h4>
+  <strong>L’évaluation des stocks</strong> est le processus scientifique d’analyse des données pour estimer l’abondance et la productivité passées, présentes et futures des stocks de poissons. C’est le pilier d’une gestion des pêches scientifiques réussie.  </aside>
+
+<figure class="wb-mltmd video-embed">
+
+  <iframe width="640" height="360" src="https://www.youtube.com/embed/7jscdP1npNQ" title="Unit 1-2 What is Stock Assessment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+  <figcaption>
+    <details id="inline-captions">
+      <summary>Transcription de la vidéo</summary>      
+
+    <p>[La musique de fond commence]</p>
+
+    <p>Narratrice : Les évaluations des stocks visent à répondre à trois questions principales :</p>
+
+    <p>[Visuel : Les mots « Les évaluations des stocks visent à répondre à trois questions principales » apparaissent.]</p>
+
+    <p>[Visuel: Un grand chiffre « 1 » apparaît en haut à gauche de l’écran.]</p>
+
+    <p>[Visuel : Les mots « Qu’est-il arrivé au stock? Reconstituer l’histoire du stock et sa réponse aux prélèvements passées et aux conditions environnementales. » apparaissent.]</p>
+
+    <p>Narratrice : 1. Qu’est-il arrivé au stock? Les scientifiques utilisent des données antérieures pour reconstituer l’histoire du stock et sa réponse aux prélèvements passées et aux conditions environnementales.</p>
+
+    <p>[Visuel: Un grand chiffre « 2 » apparaît en haut à gauche de l’écran.]</p>
+
+    <p>[Visuel : Les mots « Quel est l’état actuel du stock? Évaluer l’état du stock dans les conditions actuelles de prélèvement et d’environnement » apparaissent.]</p>
+
+    <p>Narratrice : 2. Quel est l’état actuel du stock? Ensuite, les scientifiques évaluent l’état du stock dans les conditions actuelles de prélèvement et d’environnement.</p>
+
+    <p>[Visuel: Un grand chiffre « 3 » apparaît en haut à gauche de l’écran.]</p>
+
+    <p>Visuel : Les mots « Que pourrait-il arriver au stock? Projeter la réponse du stock à différentes mesures de gestion » apparaissent.]</p>
+
+    <p>Narratrice : 3. Que pourrait-il arriver au stock? Enfin, les scientifiques projettent la réponse du stock à différentes mesures de gestion.</p>
+
+    <p>[La musique se termine]</p>
+
+    <p>[Visuel : Le texte passe au noir.]</p>
+
+    <p>[Visuel : Le logo de Pêches et Océans Canada apparaissent.]</p>
+
+    <p>[Visuel : Le logo du gouvernement du Canada apparaissent.]</p>
+
+
+
+
+    </details>
+  </figcaption>
+</figure>
+
+<br>
 
 <figure>
   <img src="../images/blue-lobster.jpg">
@@ -75,43 +126,50 @@
 
 
 
-    <div class='collapsible blue' id="key2">
-      <details>
-        <summary><strong>Mortalité par la pêche</strong></summary>
-        <p>La <strong>mortalité par la pêche</strong> est la mesure des mortalités dans un stock attribuables à toutes les activités de pêche, y compris :</p>
+<div class='collapsible blue' id="key2">
+  <details>
+    <summary><strong>Mortalité par la pêche</strong></summary>
+    <p>La <strong>mortalité par la pêche</strong> est la mesure des mortalités dans un stock attribuables à toutes les activités de pêche, y compris :</p>
   <ul>
     <li>la pêche dirigée&nbsp;;</li>
     <li>les <span class="gc-dwnld-info"><abbr title="Prises accessoires : Prises accidentelles d’une espèce dans une pêche qui en cible une autre. La partie conservée des prises accessoires est appelée prises fortuites, et la partie rejetée est appelée rejets.">prises accessoires</abbr></span> et les remises&nbsp;;</li>
     <li>les autres mortalités fortuites dans d’autres pêches.</li>
   </ul> 
-      </details>
-    </div>
+  </details>
+</div>
 
-    <div class='collapsible blue' id="key3">
-      <details>
-        <summary><strong>Mortalité naturelle</strong></summary>
-        <p>La <strong>mortalité naturelle</strong> est la mesure des mortalités dans un stock dues à toutes les causes autres que la pêche, comme : </p>
-        <ul>
-        <li>la prédation&nbsp;;</li>
-        <li>la maladie&nbsp;;</li>
-        <li>la disponibilité des proies&nbsp;;</li>
-        <li>la concurrence pour les ressources.</li>
-          </ul>
-         
-      </details>
-    </div>
+<div class='collapsible blue' id="key3">
+  <details>
+    <summary><strong>Mortalité naturelle</strong></summary>
+    <p>La <strong>mortalité naturelle</strong> est la mesure des mortalités dans un stock dues à toutes les causes autres que la pêche, comme : </p>
+    <ul>
+    <li>la prédation&nbsp;;</li>
+    <li>la maladie&nbsp;;</li>
+    <li>la disponibilité des proies&nbsp;;</li>
+    <li>la concurrence pour les ressources.</li>
+      </ul>
+     
+  </details>
+</div>
 
-    <div class='collapsible blue' id="key4">
-      <details>
-        <summary><strong>Effort de pêche</strong></summary>
-        <p>L’<strong>effort de pêche</strong> est une mesure de l’activité de pêche utilisant des paramètres comme :</p> 
-        <ul>
-          <li>le nombre de filets ou de lignes utilisés&nbsp;;</li>
-          <li>le nombre de bateaux de pêche déployés&nbsp;;</li>
-          <li>le nombre d’heures de pêche.</li>
-        </ul>
-      </details>
-    </div>
+<div class='collapsible blue' id="key4">
+  <details>
+    <summary><strong>Effort de pêche</strong></summary>
+    <p>L’<strong>effort de pêche</strong> est une mesure de l’activité de pêche utilisant des paramètres comme :</p> 
+    <ul>
+      <li>le nombre de filets ou de lignes utilisés&nbsp;;</li>
+      <li>le nombre de bateaux de pêche déployés&nbsp;;</li>
+      <li>le nombre d’heures de pêche.</li>
+    </ul>
+  </details>
+</div>
+
+<div class='collapsible blue' id="key5">
+  <details>
+    <summary><strong>Capturabilité </strong></summary>
+    <p>La <strong>capturabilité</strong> est un concept qui reflète l'efficacité d'une pêcherie. Il s'agit de la combinaison de la <strong>disponibilité</strong> (la probabilité qu'un poisson entre dans l'engin de pêche) et de la <strong>sélectivité</strong> (la probabilité de rétention une fois qu'un poisson entre dans l'engin de pêche). La sélectivité de l'engin est influencée par sa conception (type et taille des mailles, panneaux d'échappement, taille des hameçons).</p> 
+  </details>
+</div>
 
 
 

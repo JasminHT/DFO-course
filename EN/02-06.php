@@ -20,6 +20,14 @@
 
 <p>Repeated surveys (for example, annually) provide a time series of data that can show how stocks change over time. </p>
 
+<p>Surveys can be:</p>
+<ul>
+  <li>fixed: sample the same unit (place, individual) over time</li>
+  <li>random: equal chance of sampling any unit in the stock</li>
+  <li>random stratified: equal chance of sampling any unit within subsets of the stock</li>
+</ul>
+
+<p>Locations for fishery-independent sampling are often selected using a random stratified approach: a geographic area is divided into sections (known as strata) based on certain criteria (for example, square kilometres, depth). Strata can be randomly selected to more accurately reflect the entire stock in the data.</p>
 
 <aside class='bg-warning'>DFO encourages Indigenous monitoring that engages local skills and Indigenous Ways of Knowing. This builds long-term data sets that can help conserve stocks while respecting culture and autonomy.</aside>
 

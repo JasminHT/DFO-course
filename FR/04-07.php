@@ -10,6 +10,7 @@
 <h2>Unité 4.4 : Conflits d’intérêts</h2>
 
 <aside class='bg-info'>
+  <h4>Définition : </h4>
 <p>Un <b>conflit d’intérêts</b> est un intérêt du participant susceptible d’influer, ou d’être perçu comme influant, sur son objectivité et son indépendance lorsqu’il participe au processus d’examen par les pairs.  </p>
 </aside>
 

@@ -9,7 +9,10 @@
 <h2>Unité 2.4 : Évaluations des stocks fondées sur des modèles</h2>
 
 
-
+<aside class='bg-info'>
+  <h4>Définition : </h4>
+  Les modèles sont des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre. Les mathématiques et les statistiques sont le langage utilisé pour rédiger les modèles. Différents modèles peuvent être utilisés pour différentes évaluations de stocks en fonction de la disponibilité des données et des objectifs de l'évaluation.
+</aside>
 
 <figure class="wb-mltmd video-embed">
 

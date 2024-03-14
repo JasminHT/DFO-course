@@ -8,11 +8,23 @@
 
 <h2>Unit 1.1: Canada’s approach to fisheries science</h2>
 
+<aside class='bg-info'>
+  <h4>Definition: </h4>
+  <p>Throughout this training and under the <a href="https://laws-lois.justice.gc.ca/eng/acts/F-14/page-1.html"><i>Fisheries Act</i></a>, the term <strong>fish</strong> includes:</p>
+  <ul>
+    <li>fish, shellfish, crustaceans, and marine animals </li>
+    <li>any parts of fish, shellfish, crustaceans, and marine animals</li>
+    <li>eggs, sperm, spawn, larvae, spat, and juvenile stages of fish, shellfish, crustaceans, and marine animals</li>
+  </ul>
+</aside>
 
-<aside class='bg-info'>A <strong>population</strong> is a group of the same species that occupies a particular area and
+<aside class='bg-info'>
+  <h4>Definition: </h4>
+  A <strong>population</strong> is a group of the same species that occupies a particular area and
 interbreeds. </aside>
 
 <aside class='bg-info'>
+  <h4>Definition: </h4>
   <p><strong>Fish stocks</strong> are groups of the same species with a shared characteristic(s) of interest to managers. Fish stocks are often defined by a management area and can include:</p>
   <ul>
     <li>a single population </li>
@@ -24,14 +36,7 @@ interbreeds. </aside>
 <p>Fish in different stocks can also mix or migrate between different management areas. Fish stocks provide economic and social benefits to coastal communities. Their management plays an important role in maintaining stable and resilient ecosystems. They provide important ecological goods and services to all Canadians.</p>
 
 
-<aside class='bg-info'>
-  <p>Throughout this training and under the <a href="https://laws-lois.justice.gc.ca/eng/acts/F-14/page-1.html"><i>Fisheries Act</i></a>, the term <strong>fish</strong> includes:</p>
-  <ul>
-    <li>fish, shellfish, crustaceans, and marine animals </li>
-    <li>any parts of fish, shellfish, crustaceans, and marine animals</li>
-    <li>eggs, sperm, spawn, larvae, spat, and juvenile stages of fish, shellfish, crustaceans, and marine animals</li>
-  </ul>
-</aside>
+
 
 <aside>
   

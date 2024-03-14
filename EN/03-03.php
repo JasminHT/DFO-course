@@ -9,7 +9,14 @@
 
 <h2>Unit 3.1: Outputs</h2>
 
-<p>Models can test management options in a low-cost, low-risk, virtual environment. </p>
+<figure style="max-width:50%">
+  <img src="../images/capelin-bucket.jpg" alt="Capelin in a bucket">
+  <figcaption>Photo credit: DFO</figcaption>
+
+</figure>
+
+<p>Models can test management options in a low-cost, low-risk, virtual environment. Scientists are responsible for communicating risk to managers by providing advice in a way that conveys the uncertainty associated with taking different management actions. </p>
+<p>Here are some common examples of how stock assessment outputs may be communicated:</p>
 
 <div class='collapsible blue' id="module1">
   <details>
@@ -19,19 +26,15 @@
 </div>
 
 
-
-<p>Scientists are responsible for communicating risk to managers by providing advice in a way that conveys the uncertainty associated with taking different management actions. </p>
-
 <div class='collapsible blue' id="module2">
   <details>
     <summary>Decision tables</summary>
     <p><strong>Decision tables</strong> are often used as a simple way to present advice regarding the potential consequences and trade-offs of making different decisions. For example, they can describe the probability that a stock will be above or below a reference point, or project yield at different levels of fishing.</p>
-        <aside class='bg-info'> <strong>Probability</strong> is the extent to which an event or scenario is likely to occur. </aside>
-  </details>
-</div>
+        <aside class='bg-info'>
+        <h4>Definition: </h4>
+         <strong>Probability</strong> is the extent to which an event or scenario is likely to occur. </aside>
 
-
-<h3>Decision table</h3>
+    <h3>Decision table</h3>
 <figure class="wb-mltmd video-embed">
 
   <iframe width="640" height="360" src="https://www.youtube.com/embed/QFWH4_FV5II" title="Unit 3-1  Outputs Decision Table" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -208,5 +211,10 @@
     </details>
   </figcaption>
 </figure>
+  </details>
+</div>
+
+
+
 
 <?php include "includes/after.php"; ?>

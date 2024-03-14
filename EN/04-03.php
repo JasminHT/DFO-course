@@ -42,20 +42,19 @@
   <li>national, addressing issues that affect all of Canada</li>
 </ul>
 
-<figure class='image-transcript'>
+<figure >
   <img src="../images/canada-map.jpg" alt=''>
-  <figcaption>
-    <details id="inline-captions">
-      <summary>Long description</summary>      
-      <p>The Arctic Region is inclusive of the Yukon North slope, Northwest Territories, Nunavut, Nunavik, Nunatsiavut, and Hudson and James Bay. This boundary is inclusive of Inuit Nunangat.</p>
-      <p>The Pacific Region consists of British-Columbia and Yukon, minus the Yukon slope.</p>
-      <p>The Ontario and Prairie Region consists of Ontario, Manitoba, Saskatchewan and Alberta.</p>
-      <p>The Quebec Region consists of Quebec, minus the Nunavik region in northern Quebec.</p>
-      <p>The Gulf Region extends from the New Brunswick-Quebec border to the northern tip of Cape Breton.</p>
-      <p>The Maritimes Region extends from the northern tip of Cape Breton to the New Brunswick-Maine border.</p>
-      <p>The Newfoundland and Labrador Region consists of Newfoundland and Labrador, minus the Nunatsiavut region in Labrador.</p>
-    </details>
-  </figcaption>
+  <figcaption> A map showing the boundaries between DFO’s 7 regions.</figcaption>
 </figure>
+
+
+<p>The Arctic Region is inclusive of the Yukon North slope, Northwest Territories, Nunavut, Nunavik, Nunatsiavut, and Hudson and James Bay. This boundary is inclusive of Inuit Nunangat.</p>
+<p>The Pacific Region consists of British-Columbia and Yukon, minus the Yukon slope.</p>
+<p>The Ontario and Prairie Region consists of Ontario, Manitoba, Saskatchewan and Alberta.</p>
+<p>The Quebec Region consists of Quebec, minus the Nunavik region in northern Quebec.</p>
+<p>The Gulf Region extends from the New Brunswick-Quebec border to the northern tip of Cape Breton.</p>
+<p>The Maritimes Region extends from the northern tip of Cape Breton to the New Brunswick-Maine border.</p>
+<p>The Newfoundland and Labrador Region consists of Newfoundland and Labrador, minus the Nunatsiavut region in Labrador.</p>
+
 
 <?php include "includes/after.php"; ?>

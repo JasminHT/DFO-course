@@ -49,7 +49,7 @@
 
 <p>Participants are expected to remain and participate for the full duration of the meeting. They must play an active role in reaching <span class="gc-dwnld-info"><abbr title="Consensus: an absence of opposition to the peer review meeting conclusions and advice.">consensus</abbr></span> on conclusions. They must commit to taking part as objective experts (for example, not advocating or actively representing an interest group, political group, client, or proponent). </p>
 
-<p>Policy: <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/peer-participation-pairs-eng.html">Canadian Science Advisory Secretariat - Policy on Participation in Science Peer Review Meetings</a></p>
-<p>Guide: <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/meetings-reunions-eng.html">Canadian Science Advisory Secretariat - Participant's Guide to Peer Review Meetings</a></p>
+For more information, click here for the <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/peer-participation-pairs-eng.html">CSAS Policy on Participation in Science Peer Review Meetings</a> and the <a href="https://www.dfo-mpo.gc.ca/csas-sccs/process-processus/meetings-reunions-eng.html">Participant’s Guide to Peer Review Meetings</a>.
+
 
 <?php include "includes/after.php"; ?>
