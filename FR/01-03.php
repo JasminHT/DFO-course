@@ -19,7 +19,8 @@
 </aside>
 
 <aside class='bg-info'><h4>Définition : </h4>
-  Une <strong>population</strong> est un groupe d’individus de la même espèce qui occupent un espace donné et qui se reproduisent entre eux. </aside>
+  <p>Une <strong>population</strong> est un groupe d’individus de la même espèce qui occupent un espace donné et qui se reproduisent entre eux. </p>
+</aside>
 
 <aside class='bg-info'>
   <h4>Définition : </h4>

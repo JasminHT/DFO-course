@@ -16,7 +16,7 @@
 
 <aside class='bg-info'>
   <h4>Definition: </h4>
-  Discussion and debate are important components of the peer review process. <strong>Consensus</strong> is an absence of opposition to the peer review meeting conclusions and advice. Consensus is reached based on scientific data and information and not on external considerations, such as potential impacts of future decisions.</aside>
+  <p>Discussion and debate are important components of the peer review process. <strong>Consensus</strong> is an absence of opposition to the peer review meeting conclusions and advice. Consensus is reached based on scientific data and information and not on external considerations, such as potential impacts of future decisions.</p></aside>
 
 <p>Consensus is reached by considering alternate interpretations and contrary opinions. Sharing differing opinions is encouraged because science advice will benefit from their input. In many cases, consensus can be reached when participants believe that additional data or more thorough analyses could support another conclusion, but they do not oppose the proposed conclusions. </p>
 

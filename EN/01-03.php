@@ -20,8 +20,8 @@
 
 <aside class='bg-info'>
   <h4>Definition: </h4>
-  A <strong>population</strong> is a group of the same species that occupies a particular area and
-interbreeds. </aside>
+  <p>A <strong>population</strong> is a group of the same species that occupies a particular area andcinterbreeds.</p> 
+</aside>
 
 <aside class='bg-info'>
   <h4>Definition: </h4>

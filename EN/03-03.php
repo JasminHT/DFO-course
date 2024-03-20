@@ -32,7 +32,7 @@
     <p><strong>Decision tables</strong> are often used as a simple way to present advice regarding the potential consequences and trade-offs of making different decisions. For example, they can describe the probability that a stock will be above or below a reference point, or project yield at different levels of fishing.</p>
         <aside class='bg-info'>
         <h4>Definition: </h4>
-         <strong>Probability</strong> is the extent to which an event or scenario is likely to occur. </aside>
+         <p><strong>Probability</strong> is the extent to which an event or scenario is likely to occur. </p></aside>
 
     <h3>Decision table</h3>
 <figure class="wb-mltmd video-embed">

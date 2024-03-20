@@ -46,7 +46,7 @@
 
          <aside class='bg-info'>
           <h4>Definition: </h4>
-          A fish stock experiencing <b>serious harm</b> may be depleted to the point where it has impaired productivity or reproductive capacity. As a result, the stock would be less resilient to fishing and could not easily rebuild. Serious harm may be irreversible, or only slowly reversible over the long-term, and can be due to fishing, other human-induced impacts, or natural causes.</aside>
+          <p>A fish stock experiencing <b>serious harm</b> may be depleted to the point where it has impaired productivity or reproductive capacity. As a result, the stock would be less resilient to fishing and could not easily rebuild. Serious harm may be irreversible, or only slowly reversible over the long-term, and can be due to fishing, other human-induced impacts, or natural causes.</p></aside>
       </details>
     </div>
 

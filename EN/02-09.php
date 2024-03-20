@@ -93,7 +93,7 @@
   <details id="inline-captions">
     <summary>Age-based models</summary>      
 
-    <p><strong>Age-based models</strong> follow a <span class="gc-dwnld-info"><abbr title="Cohort: (also known as a year-class) fish of a stock born in the same spawning year.">cohort</abbr></span> through time to determine past and present abundance. At each time step, the number of fish removed by fishing is known and natural mortality is estimated or assumed to predict abundance in the following year(s). </p>
+    <p><strong>Age-based models</strong> follow a <span class="gc-dwnld-info"><abbr title="Cohort: (also known as a year-class) fish of a stock born in the same spawning year.">cohort</abbr></span> through time to determine past and present abundance. At each time step, the number of fish removed by fishing is known and natural mortality is estimated or assumed to project abundance in the following year(s). </p>
 
     <aside>
     <h3>Example: A cohort through time</h3>

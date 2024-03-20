@@ -19,9 +19,9 @@
 </ul>
 
 <aside>
-  <h3>Example: Research on atlantic halibut stock structure</h3>
+  <h3>Example: Research on Atlantic Halibut stock structure</h3>
 
-  <p>Genetic differences were found between Gulf of St. Lawrence Halibut and Scotian Shelf and southern Grand Banks Halibut. These findings support the current management units (Gulf of St. Lawrence Halibut managed as one stock, and the Scotian Shelf and southern Grand Banks Halibut managed as another).</p>
+  <p>Genetic differences were found between Gulf of St. Lawrence Halibut and Scotian Shelf and southern Grand Banks Halibut. These findings support the current management units (Gulf of St. Lawrence Halibut managed as 1 stock, and the Scotian Shelf and southern Grand Banks Halibut managed as another).</p>
 
 
 

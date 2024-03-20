@@ -10,7 +10,7 @@
 
 <aside class='bg-info'>
   <h4>Définition : </h4>
-  <strong>L’évaluation des stocks</strong> est le processus scientifique d’analyse des données pour estimer l’abondance et la productivité passées, présentes et futures des stocks de poissons. C’est le pilier d’une gestion des pêches scientifiques réussie.  </aside>
+  <p><strong>L’évaluation des stocks</strong> est le processus scientifique d’analyse des données pour estimer l’abondance et la productivité passées, présentes et futures des stocks de poissons. C’est le pilier d’une gestion des pêches scientifiques réussie.  </p></aside>
 
 <figure class="wb-mltmd video-embed">
 
@@ -59,14 +59,6 @@
   </figcaption>
 </figure>
 
-<br>
-
-<figure>
-  <img src="../images/blue-lobster.jpg">
-  <figcaption>Homard bleu en Nouvelle-Écosse. <br>
-    Source de la photo : Ben Zisserson, MPO
-  </figcaption>
-</figure>
 
 
 <p>Le MPO doit assurer l’utilisation durable du poisson en tant que ressource renouvelable. L’évaluation des stocks vise à fournir des avis scientifiques aux gestionnaires au sujet des risques et de l’incertitude associés à la prise de différentes mesures de gestion. </p>
@@ -172,6 +164,14 @@
 </div>
 
 
+<br>
+
+<figure>
+  <img src="../images/blue-lobster.jpg">
+  <figcaption>Homard bleu en Nouvelle-Écosse. <br>
+    Source de la photo : Ben Zisserson, MPO
+  </figcaption>
+</figure>
 
 
 <?php include "includes/after.php"; ?>

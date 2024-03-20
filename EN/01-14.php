@@ -31,9 +31,9 @@
 
   <li>Where possible, stock assessments project how fish stocks will react to different management actions. Scientists can provide advice to managers about the risks and uncertainty associated with taking different management actions.</li>
 
-  <li>Stock assessments estimate the status of a stock. Healthy, cautious, and critical status zones are created by defining reference points that act as boundaries between them. </li>
+  <li>Stock assessments estimate the status of a stock. Healthy, cautious, and critical status zones are created by defining reference points that act as boundaries between them. 
 
-  <ul>
+    <ul>
     <li>The limit reference point (LRP) is the stock status below which <span class="gc-dwnld-info"><abbr title="Serious harm: a fish stock experiencing serious harm may be depleted to the point where it has impaired productivity or reproductive capacity. As a result, the stock would be less resilient to fishing and could not easily rebuild. Serious harm may be irreversible, or only slowly reversible over the long-term, and can be due to fishing, other human-induced impacts, or natural causes.">serious harm</abbr></span>  is occurring to the stock. </li>
 
     <li>The upper stock reference (USR) is the threshold below which fishing must be reduced to avoid reaching the LRP. </li>
@@ -42,6 +42,9 @@
 
     <li>The target reference point (TRP) is the overall stock level target.</li>
   </ul>
+</li>
+
+
 
   <li>A common approach used to define reference points is to estimate them based on a stock’s maximum sustainable yield. Indicators are often used to describe what is known about a stock’s status.</li>
 

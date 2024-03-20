@@ -68,7 +68,7 @@
       <ul>
       <li><span class="gc-dwnld-info"><abbr title="Abundance (N): total number of fish in a stock.">abundance</abbr></span> and biomass</li>
       <li>  <span class="gc-dwnld-info"><abbr title="Spawning stock biomass (SSB): the total weight of all fish in a stock that have reached reproductive maturity.">spawning stock biomass</abbr></span></li>
-      <li><span class="gc-dwnld-info"><abbr title="Recruitment: Recruitment occurs when new fish are added to a population. It is measured when small or young fish grow large or old enough to be caught in a fishery (which may be affected by catch limits or gear type) or scientific survey.">recruitment</abbr></span> </li>
+      <li><span class="gc-dwnld-info"><abbr title="Recruitment: Recruitment occurs when new fish are added to a population. It is commonly measured when small or young fish grow large or old enough to be caught in a fishery (which may be affected by catch limits or gear type) or scientific survey.">recruitment</abbr></span> </li>
       <li>fish length and weight</li>
       <li>stomach samples to determine position in the food web and diet</li>
       <li>fish age using otoliths (small structures in the inner ear with growth rings that can be counted, similar to counting tree rings)</li>

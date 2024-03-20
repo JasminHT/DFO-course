@@ -14,7 +14,7 @@
 
 <aside class='bg-info'>
   <h4>Definition: </h4>
-<p>An <strong>ecosystem approach to fisheries management</strong>  incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on one stock have consequences to others. </p></aside>
+<p>An <strong>ecosystem approach to fisheries management</strong>  incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on 1 stock have consequences to others. </p></aside>
 
 <figure class='image-transcript' >
   <img alt='Infographic explaining an Ecosystem Approach to Fisheries Management'
@@ -35,7 +35,7 @@
   <details>
     <summary><strong>Ecosystem-based fisheries management</strong></summary>
     <br><ul><li>expands the scope of the management of commercial fisheries to include simultaneous management of multiple species</li>
-        <li>incorporates ecosystem variables such as water temperature, predatory-prey dynamics, and habitat</li></ul>
+        <li>incorporates ecosystem variables such as water temperature, predator-prey dynamics, and habitat</li></ul>
   </details>
 </div>
 
@@ -43,13 +43,13 @@
   <details>
     <summary><strong>Ecosystem approach to fisheries management</strong></summary>
     <br><ul><li>includes the management of commercial fisheries on a species-by-species basis</li>
-        <li>incorporates ecosystem variables such as water temperature, predatory-prey dynamics, and habitat</li></ul>
+        <li>incorporates ecosystem variables such as water temperature, predator-prey dynamics, and habitat</li></ul>
   </details>
 </div>
 
 <div class='collapsible blue' id="module3">
   <details>
-    <summary><strong>Single species management</strong></summary>
+    <summary><strong>Single-species management</strong></summary>
     <br><ul><li>includes the management of commercial fisheries on a species-by-species basis</li></ul>
   </details>
 </div>

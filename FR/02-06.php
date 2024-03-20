@@ -31,7 +31,9 @@
 <p>Les emplacements pour l’échantillonnage indépendant de la pêche sont souvent sélectionnés selon une approche stratifiée aléatoire : une zone géographique est divisée en sections (appelées strates) en fonction de certaines caractéristiques (p. ex. kilomètres carrés, profondeur). Les strates peuvent être choisies au hasard pour refléter plus précisément l’ensemble du stock dans les données.</p>
 
 <aside class='bg-warning'>
-  Le MPO encourage la surveillance autochtone qui fait appel aux compétences locales et aux Modes de connaissance autochtones. Elle permet d’établir des ensembles de données à long terme qui peuvent faciliter la conservation des stocks tout en respectant la culture et l’autonomie.</aside>
+    <h4>Concept clé : </h4>
+    <p>Le MPO encourage la surveillance autochtone qui fait appel aux compétences locales et aux Modes de connaissance autochtones. Elle permet d’établir des ensembles de données à long terme qui peuvent faciliter la conservation des stocks tout en respectant la culture et l’autonomie.</p>
+  </aside>
 
 <aside>
 

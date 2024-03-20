@@ -28,7 +28,7 @@
 
     <aside class='bg-warning'>
           <h4>Concept clé : </h4>
-          Les projections ne sont pas des prévisions. Les <strong>prévisions</strong> visent à prévoir le scénario le plus probable, tandis que les <strong>projections</strong> explorent et comparent les résultats de nombreux scénarios qui pourraient se produire. Les scientifiques sont chargés de communiquer les différents résultats des projections aux gestionnaires de la pêche afin qu'ils soient en mesure d'évaluer et d'intégrer ces informations dans la prise de décision.</aside>
+          <p>Les projections ne sont pas des prévisions. Les <strong>prévisions</strong> visent à prévoir le scénario le plus probable, tandis que les <strong>projections</strong> explorent et comparent les résultats de nombreux scénarios qui pourraient se produire. Les scientifiques sont chargés de communiquer les différents résultats des projections aux gestionnaires de la pêche afin qu'ils soient en mesure d'évaluer et d'intégrer ces informations dans la prise de décision.</p></aside>
 
     <p>Les projections peuvent changer à mesure que les <span class="gc-dwnld-info"><abbr title="Hypothèse : Énoncé introduit dans un argument et (temporairement) accepté comme étant vrai. ">hypothèses</abbr></span> évoluent (p. ex. les facteurs environnementaux).</p>
 

@@ -12,7 +12,7 @@
 
 <aside class='bg-info'>
   <h4>Definition: </h4>
-  <strong>Maximum sustainable yield (MSY)</strong> is the maximum average annual catch that can be removed from a stock over an indefinite period of time under current environmental conditions. In other words, it is the maximum harvest a stock can sustain over the long term without impairing the stock’s ability to replenish itself.</aside>
+  <p><strong>Maximum sustainable yield (MSY)</strong> is the maximum average annual catch that can be removed from a stock over an indefinite period of time under current environmental conditions. In other words, it is the maximum harvest a stock can sustain over the long term without impairing the stock’s ability to replenish itself.</p></aside>
 
 <p>The stock <span class="gc-dwnld-info"><abbr title="Biomass (B): the total weight of all fish in a stock.">biomass</abbr></span>  that produces the maximum sustainable yield is referred to as <strong>B<sub>MSY</sub></strong>.</p>
 

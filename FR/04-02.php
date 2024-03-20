@@ -49,6 +49,7 @@
 </ol>
 
 <aside class='bg-warning'> 
-  Le SCAS ne produira plus de comptes rendus pour les réunions d’examen par les pairs à compter de 2023. Les comptes rendus déjà publiés des réunions précédentes demeureront disponibles sur <a target="_blank" href="https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-fra.asp">le site Web du SCAS</a>.</aside>
+  <h4>Concept clé :</h4>
+  <p>Le SCAS ne produira plus de comptes rendus pour les réunions d’examen par les pairs à compter de 2023. Les comptes rendus déjà publiés des réunions précédentes demeureront disponibles sur <a target="_blank" href="https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-fra.asp">le site Web du SCAS</a>.</p></aside>
 
 <?php include "includes/after.php"; ?>

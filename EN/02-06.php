@@ -29,7 +29,10 @@
 
 <p>Locations for fishery-independent sampling are often selected using a random stratified approach: a geographic area is divided into sections (known as strata) based on certain criteria (for example, square kilometres, depth). Strata can be randomly selected to more accurately reflect the entire stock in the data.</p>
 
-<aside class='bg-warning'>DFO encourages Indigenous monitoring that engages local skills and Indigenous Ways of Knowing. This builds long-term data sets that can help conserve stocks while respecting culture and autonomy.</aside>
+<aside class='bg-warning'>
+  <h4>Key concept: </h4>
+  <p>DFO encourages Indigenous monitoring that engages local skills and Indigenous Ways of Knowing. This builds long-term data sets that can help conserve stocks while respecting culture and autonomy.</p>
+</aside>
 
 <aside>
 

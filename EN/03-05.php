@@ -9,7 +9,9 @@
 
 <h2>Unit 3.2: Management Strategy Evaluation</h2>
 
-<aside class='bg-warning'><b>Why is MSE important?</b> Because fish stocks are complex. It is impossible to know exactly how many fish are in the ocean or how a stock will respond to fishing pressure. Also, environmental conditions can change in the ocean, just like the weather during a flight. MSE helps test different management strategies even in the face of uncertainty.</aside>
+<aside class='bg-warning'>
+  <h4>Key concept:</h4>
+  <p><b>Why is MSE important?</b> Because fish stocks are complex. It is impossible to know exactly how many fish are in the ocean or how a stock will respond to fishing pressure. Also, environmental conditions can change in the ocean, just like the weather during a flight. MSE helps test different management strategies even in the face of uncertainty.</p></aside>
 
 <figure>
  <img src="../images/groundfish.png" alt="fishing machinery"> 

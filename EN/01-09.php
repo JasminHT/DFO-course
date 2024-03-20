@@ -10,7 +10,8 @@
 
 <aside class='bg-info'>
   <h4>Definition: </h4>
-  <strong>Stock assessment</strong> is the scientific process of analyzing data to estimate the abundance and productivity of fish stocks in the past, present, and future. It is the backbone of successful science-based fisheries management. </aside>
+  <p><strong>Stock assessment</strong> is the scientific process of analyzing data to estimate the abundance and productivity of fish stocks in the past, present, and future. It is the backbone of successful science-based fisheries management.</p>
+   </aside>
 
 <figure class="wb-mltmd video-embed">
 
@@ -39,14 +40,6 @@
 
 
     </details>
-  </figcaption>
-</figure>
-
-<br>
-<figure>
-  <img src="../images/blue-lobster.jpg">
-  <figcaption>Blue American Lobster in Nova Scotia.<br>
-    Photo credit: Ben Zisserson, DFO
   </figcaption>
 </figure>
 
@@ -98,7 +91,7 @@
   <details>
     <summary><strong>Recruitment</strong></summary>
     <p><strong>Recruitment</strong>  
-     occurs when new fish are added to a population. It is measured when small or young fish grow large or old enough to be caught in a fishery (which may be affected by catch limits or gear type) or scientific survey.  </p>
+     occurs when new fish are added to a population. It is commonly measured when small or young fish grow large or old enough to be caught in a fishery (which may be affected by catch limits or gear type) or scientific survey.  </p>
   </details>
 </div>
 
@@ -156,10 +149,17 @@
 <div class='collapsible blue' id="key5">
   <details>
     <summary><strong>Catchability</strong></summary>
-    <p><strong>Catchability</strong> is a concept that reflects the efficiency of a fishery. It is the combination of <strong>availability</strong> (the likelihood that a fish will enter fishing gear) and <strong>selectivity</strong> (the likelihood of retention once a fish enters fishing gear). Gear selectivity is affected by gear design, such as mesh type and size, escape panels, hook size).</p>
+    <p><strong>Catchability</strong> is a concept that reflects the efficiency of a fishery. It is the combination of <strong>availability</strong> (the likelihood that a fish will enter fishing gear) and <strong>selectivity</strong> (the likelihood of retention once a fish enters fishing gear). Gear selectivity is affected by gear design, such as mesh type and size, escape panels, and hook size.</p>
     
   </details>
 </div>
 
+<br>
+<figure>
+  <img src="../images/blue-lobster.jpg">
+  <figcaption>Blue American Lobster in Nova Scotia.<br>
+    Photo credit: Ben Zisserson, DFO
+  </figcaption>
+</figure>
 
 <?php include "includes/after.php"; ?>

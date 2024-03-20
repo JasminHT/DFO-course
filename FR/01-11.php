@@ -51,7 +51,7 @@
 
          <aside class='bg-info'>
           <h4>Définition : </h4>
-          Un stock de poissons subissant des <strong>dommages graves</strong> peut être épuisé au point de voir sa productivité ou sa capacité de reproduction diminuée. Par conséquent, le stock serait moins résistant à la pêche et ne pourrait pas se reconstituer facilement. Les dommages graves peuvent être irréversibles ou n’être que lentement réversibles à long terme et peuvent être dus à la pêche, à d’autres impacts anthropiques ou à des causes naturelles.</aside>
+          <p>Un stock de poissons subissant des <strong>dommages graves</strong> peut être épuisé au point de voir sa productivité ou sa capacité de reproduction diminuée. Par conséquent, le stock serait moins résistant à la pêche et ne pourrait pas se reconstituer facilement. Les dommages graves peuvent être irréversibles ou n’être que lentement réversibles à long terme et peuvent être dus à la pêche, à d’autres impacts anthropiques ou à des causes naturelles.</p></aside>
       </details>
     </div>
 
@@ -103,9 +103,11 @@
 
 <p>Narratrice : Pêches et Océans Canada utilise trois zones d’état des stocks pour catégoriser l’état  des stocks de poissons (critique, de prudence ou saine). </p>
 
+<p>[Visuel : Les mots « Pêches et Océans Canada utilise trois zones d’état des stocks pour catégoriser l’état des stocks de poissons (critique, de prudence ou saine). » apparaissent.]</p>
+
 <p>Narratrice: Cette figure montre comment la quantité de poissons qui peut être prélevée d’un stock pourrait changer pour chaque zone d’état du stock. Le taux d’exploitation est indiqué sur l’axe des y et l’état des stocks sur l’axe des x.</p>
 
-<p>[Visuel : Le graphique s’affiche avec le taux d’exploitationsur l’axe des y et l’état du stock sur l’axe des x. Sous le graphique, une légende indique « 1 Point de référence limite&nbsp;; 2 Point de référence supérieur&nbsp;; 3 Taux d’exploitation de référence&nbsp;; 4 Point de référence cible ».]</p>
+<p>[Visuel : Le graphique s’affiche avec le taux d’exploitation sur l’axe des y et l’état du stock sur l’axe des x. Sous le graphique, une légende indique « 1 Point de référence limite&nbsp;; 2 Point de référence supérieur&nbsp;; 3 Taux d’exploitation de référence&nbsp;; 4 Point de référence cible ».]</p>
 
 <p>[Visuel : En haut, le graphique est divisé en trois sections et couleurs : une barre horizontale rouge à l’extrême gauche est intitulée « zone critique », une barre horizontale jaune au milieu est intitulée « zone de prudence » et une barre horizontale verte à l’extrême droite est intitulée « la zone saine » .]</p>
 

@@ -10,7 +10,8 @@
 <h2>Unité 3.2 : Évaluation de la stratégie de gestion</h2>
 
 <aside class='bg-warning'>
-  <b>Pourquoi l’ESG est-il important?</b> Parce que les stocks de poissons sont complexes. Il est impossible de savoir exactement combien de poissons se trouvent dans l’océan ni comment un stock réagira à la pression de la pêche. En outre, les conditions environnementales peuvent changer dans l’océan, tout comme les conditions météorologiques pendant un vol. Grâce à l’ESG, on teste différentes stratégies de gestion, même en cas d’incertitude.</aside>
+  <h4>Concept clé :</h4>
+  <p><b>Pourquoi l’ESG est-il important?</b> Parce que les stocks de poissons sont complexes. Il est impossible de savoir exactement combien de poissons se trouvent dans l’océan ni comment un stock réagira à la pression de la pêche. En outre, les conditions environnementales peuvent changer dans l’océan, tout comme les conditions météorologiques pendant un vol. Grâce à l’ESG, on teste différentes stratégies de gestion, même en cas d’incertitude.</p></aside>
 <figure>
 <img src="../images/groundfish.png" alt="Des scientifiques réalisent un relevé sur la morue charbonnière.">
 <figcaption>

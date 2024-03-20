@@ -27,7 +27,8 @@
 
 
     <aside class='bg-warning'>
-      <h4>Key concept: </h4>Projections are not predictions. <strong>Predictions</strong> aim to forecast the most likely scenario, whereas <strong>projections</strong> explore and compare the outcomes of many scenarios that could happen. Scientists are responsible for communicating various projection outputs to fisheries managers so they are able to evaluate and incorporate this information into decision making. </aside>
+      <h4>Key concept: </h4>
+      <p>Projections are not predictions. <strong>Predictions</strong> aim to forecast the most likely scenario, whereas <strong>projections</strong> explore and compare the outcomes of many scenarios that could happen. Scientists are responsible for communicating various projection outputs to fisheries managers so they are able to evaluate and incorporate this information into decision making.</p> </aside>
 
     <p>The results of projections can change as <span class="gc-dwnld-info"><abbr title="Assumption: a statement introduced into an argument that is accepted as being true.">assumptions</abbr></span> change (for example, about environmental factors or catch levels).</p>
 

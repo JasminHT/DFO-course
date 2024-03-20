@@ -16,7 +16,7 @@
 Source de la photo : MPO</figcaption>
     </figure>
 
-    <p>Le MPO étant un ministère à vocation scientifique, <a href="https://www.dfo-mpo.gc.ca/about-notre-sujet/publications/policy-politiques/science-integrity-integrite-scientifique/index-fra.html"><b>l’intégrité scientifique</b></a> est essentielle à son travail et à celui de ses employés. L’intégrité scientifique est indispensable à : </p>
+    <p>Le MPO étant un ministère à vocation scientifique, <a href="https://www.dfo-mpo.gc.ca/about-notre-sujet/publications/policy-politiques/science-integrity-integrite-scientifique/index-fra.html">l’intégrité scientifique</a> est essentielle à son travail et à celui de ses employés. L’intégrité scientifique est indispensable à : </p>
 
     <ul>
       <li>la planification et l’exécution de la recherche et de la surveillance&nbsp;;</li>

@@ -47,7 +47,7 @@
 
 <p>Narratrice : Les résultats de l’évaluation des stocks : comment nous analysons les données collectées, comment fonctionne l’évaluation des stratégies de gestion et comment nous abordons l’incertitude et le risque&nbsp;;</p>
 
-<p>[Visuel : Les mots « Les avis scientifiques : Comment fonctionne le Secrétariat canadien des avis scientifiques&nbsp;; comment les parties prenantes participent aux réunions d’examen par les pairs, comment ce processus traite de l’obtention d’un consensus et des conflits d’intérêts&nbsp;; et où et comment obtenir l’accès à diverses publications » apparaissent].</p>
+<p>[Visuel : Les mots « Les avis scientifiques : Comment fonctionne le Secrétariat canadien des avis scientifiques&nbsp;; comment les intervenants participent aux réunions d’examen par les pairs, comment ce processus traite de l’obtention d’un consensus et des conflits d’intérêts&nbsp;; et où et comment obtenir l’accès à diverses publications » apparaissent].</p>
 
 <p>Narratrice : Les avis scientifiques : Comment fonctionne le Secrétariat canadien des avis scientifiques; comment les intervenants participent aux réunions d’examen par les pairs, comment ce processus traite de l’atteinte d’un consensus et des conflits d’intérêts&nbsp;; et où et comment obtenir l’accès à diverses publications.</p>
 

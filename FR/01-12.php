@@ -12,7 +12,7 @@
 
 <aside class='bg-info'>
   <h4>Définition : </h4>
-  Le <strong>rendement maximal durable (RMD)</strong> est la prise annuelle moyenne maximale qui peut être prélevée d’un stock sur une période indéfinie dans les conditions environnementales actuelles. Autrement dit, il s’agit de la récolte maximale qu’un stock peut soutenir sans nuire à sa croissance naturelle et à sa reconstitution. </aside>
+  <p>Le <strong>rendement maximal durable (RMD)</strong> est la prise annuelle moyenne maximale qui peut être prélevée d’un stock sur une période indéfinie dans les conditions environnementales actuelles. Autrement dit, il s’agit de la récolte maximale qu’un stock peut soutenir sans nuire à sa croissance naturelle et à sa reconstitution. </p></aside>
 
 <p>La <span class="gc-dwnld-info"><abbr title="Biomasse (B) : Le poids total de tous les poissons d’un stock.">biomasse</abbr></span> du stock qui produit le rendement maximal durable est appelée la <strong>B<sub>RMD</sub></strong>.</p>
 

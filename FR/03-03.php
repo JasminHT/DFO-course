@@ -36,7 +36,7 @@ Source de la photo : MPO
     <p>Ils utilisent souvent des <strong>tableaux de décision</strong> comme moyen simple de présenter des avis sur les conséquences et les compromis possibles qui accompagnent différentes décisions. Par exemple, les tableaux de décision peuvent décrire la probabilité qu’un stock soit au-dessus ou au-dessous d’un point de référence, ou le rendement projeté à différents niveaux de pêche.</p>
     <aside class='bg-info'>
       <h4>Définition : </h4>
-      La <strong>probabilité</strong> est la mesure dans laquelle un événement ou un scénario est susceptible de se produire. </aside>
+      <p>La <strong>probabilité</strong> est la mesure dans laquelle un événement ou un scénario est susceptible de se produire.</p> </aside>
 
     <h3>Tableaux de décision</h3>
 <figure class="wb-mltmd video-embed">
@@ -129,11 +129,11 @@ Source de la photo : MPO
 
       <p>[Visuel : Un tableau apparaît avec le titre « Table de décision : Probabilité d’être dans la zone saine ». 7 colonnes sont intitulées, de gauche à droite : Niveau de capture annuel (t) ; 2013 ; 2014 ; 2015 ; 2016 ; 2017 ; 2018 ;. Le tableau comporte 6 lignes.]</p>
 
-      <p>Narratrice: La première colonne du tableau de décision indique différents niveaux de réponse en tonnes.</p>
+      <p>Narratrice: La première colonne du tableau de décision indique différents niveaux de capture en tonnes.</p>
 
       <p>[Visuel : la première colonne est surlignée en bleu foncé.]</p>
 
-      <p>Narratrice: Les lignes indiquent la probabilité qu’un stock se trouve dans la zone saine au début de chaque année pour chaque niveau de réponse (remarque : la probabilité en 2013 est la même parce qu’il s’agit du point de départ de toutes les projections).</p>
+      <p>Narratrice: Les lignes indiquent la probabilité qu’un stock se trouve dans la zone saine au début de chaque année pour chaque niveau de capture (remarque : la probabilité en 2013 est la même parce qu’il s’agit du point de départ de toutes les projections).</p>
 
       <p>[Visuel : La deuxième colonne (2013) est surlignée en bleu foncé.]</p>
 

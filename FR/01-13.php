@@ -53,7 +53,7 @@
 
 <aside class='bg-warning'>
       <h4>Concept clé : </h4>
-      Les changements climatiques posent de graves risques pour l’avenir des pêches au Canada. La <a href="https://laws-lois.justice.gc.ca/fra/lois/f-14/page-1.html"><i>Loi sur les pêches</i></a> exige que le MPO tienne compte des conditions environnementales qui influencent les stocks pour élaborer et mettre en œuvre des mesures de gestion. Partout au Canada, les scientifiques du MPO explorent les impacts sur les écosystèmes des conditions changeantes des océans, comme l’appauvrissement en oxygène et la perte de glace de mer, en étudiant la réaction de divers stocks de poissons à ces changements.</aside>
+      <p>Les changements climatiques posent de graves risques pour l’avenir des pêches au Canada. La <a href="https://laws-lois.justice.gc.ca/fra/lois/f-14/page-1.html"><i>Loi sur les pêches</i></a> exige que le MPO tienne compte des conditions environnementales qui influencent les stocks pour élaborer et mettre en œuvre des mesures de gestion. Partout au Canada, les scientifiques du MPO explorent les impacts sur les écosystèmes des conditions changeantes des océans, comme l’appauvrissement en oxygène et la perte de glace de mer, en étudiant la réaction de divers stocks de poissons à ces changements.</p></aside>
 
 
 <?php include "includes/after.php"; ?>

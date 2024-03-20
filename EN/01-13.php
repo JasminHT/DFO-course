@@ -34,7 +34,7 @@
 <li>climate change and other environmental conditions</li>
 </ul>
 
-<p>Incorporating these broader ecosystem considerations into stock assessments contributes to an <span class="gc-dwnld-info"><abbr title="Ecosystem approach to fisheries management (EAFM): incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on one stock have consequences to others.">ecosystems approach to fisheries management</abbr></span>. </p>
+<p>Incorporating these broader ecosystem considerations into stock assessments contributes to an <span class="gc-dwnld-info"><abbr title="Ecosystem approach to fisheries management (EAFM): incorporates ecosystem variables (for example, climate, oceanographic and ecological factors) into single-species stock assessments and scientific advice to better inform decision making. This is particularly important when predator-prey interactions indicate that management decisions on 1 stock have consequences to others.">ecosystem approach to fisheries management</abbr></span>. </p>
 
 <p>Some stock assessments may include information on ecosystems and environmental conditions to improve the interpretation of historical information and the accuracy of projections. This can include:</p>
 <ul>
@@ -49,7 +49,7 @@
 
 <aside class='bg-warning'>
   <h4>Key concept: </h4>
-  Climate change poses serious risks to the future of Canada’s fisheries. The <a href="https://laws-lois.justice.gc.ca/eng/acts/F-14/page-1.html"><i>Fisheries Act</i></a> requires DFO to consider environmental conditions affecting stocks in the development and implementation of management action. Across Canada, DFO scientists are exploring the ecosystem impacts of changing ocean conditions, such as oxygen depletion and sea ice loss, by studying the response of various fish stocks to these changes.</aside>
+  <p>Climate change poses serious risks to the future of Canada’s fisheries. The <a href="https://laws-lois.justice.gc.ca/eng/acts/F-14/page-1.html"><i>Fisheries Act</i></a> requires DFO to consider environmental conditions affecting stocks in the development and implementation of management action. Across Canada, DFO scientists are exploring the ecosystem impacts of changing ocean conditions, such as oxygen depletion and sea ice loss, by studying the response of various fish stocks to these changes.</p></aside>
 
 
 <?php include "includes/after.php"; ?>

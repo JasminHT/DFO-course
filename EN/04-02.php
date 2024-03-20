@@ -43,6 +43,9 @@
 <li>Science Responses document peer-reviewed science advice for urgent and unforeseen CSAS processes or when a full advisory meeting is not required because the issue can be addressed through the application of an existing advisory framework through peer review meetings</li>
 </ol>
 
-<aside class='bg-warning'>CSAS no longer produces Proceedings for peer review meetings as of 2023. Previously published Proceedings from past meetings will remain available on the <a target="_blank" href="https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp">CSAS website</a>.</aside>
+<aside class='bg-warning'>
+  <h4>Key concept:</h4>
+  <p>CSAS no longer produces Proceedings for peer review meetings as of 2023. Previously published Proceedings from past meetings will remain available on the <a target="_blank" href="https://www.isdm-gdsi.gc.ca/csas-sccs/applications/Publications/index-eng.asp">CSAS website</a>.</p>
+</aside>
 
 <?php include "includes/after.php"; ?>

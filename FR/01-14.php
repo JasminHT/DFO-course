@@ -29,9 +29,9 @@
 
   <li>Dans la mesure du possible, les évaluations des stocks permettent de projeter la réaction des stocks de poissons à différentes mesures de gestion. Les scientifiques peuvent conseiller les gestionnaires sur les risques et l’incertitude associés à l’application de différentes mesures de gestion.</li>
 
-  <li>Les évaluations des stocks estiment l’état d’un stock. On crée les zones d’état saine, de prudence et critique en définissant des points de référence qui servent de seuils entre elles. </li>
+  <li>Les évaluations des stocks estiment l’état d’un stock. On crée les zones d’état saine, de prudence et critique en définissant des points de référence qui servent de seuils entre elles. 
 
-  <ul>
+    <ul>
     <li>Le point de référence limite (PRL) est l’état d’un stock au-dessous duquel ce dernier risque de subir de <span class="gc-dwnld-info"><abbr title="Dommages grave : Un stock de poissons subissant des dommages graves peut être épuisé au point de voir sa productivité ou sa capacité de reproduction diminuée. Par conséquent, le stock serait moins résistant à la pêche et ne pourrait pas se reconstituer facilement. Les dommages graves peuvent être irréversibles ou n’être que lentement réversibles à long terme et peuvent être dus à la pêche, à d’autres impacts anthropiques ou à des causes naturelles.">graves dommages</abbr></span>. </li>
 
     <li>Le point de référence supérieur du stock (PRS) est le seuil au-dessous duquel il faut réduire la pêche afin d’éviter d’atteindre le PRL. </li>
@@ -40,6 +40,10 @@
 
     <li>Le point de référence cible (PRC) est la cible générale d’un stock.</li>
   </ul>
+
+</li>
+
+
 
   <li>Une approche courante utilisée pour définir les points de référence consiste à les estimer sur la base de le rendement maximal durable d'un stock. Les indicateurs sont souvent utilisés pour décrire ce que l'on sait sur l'état d'un stock.</li>
 

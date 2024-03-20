@@ -15,7 +15,7 @@
       <figcaption>Two field technicians collecting data by electrofishing. <br> Photo credit: DFO</figcaption>
     </figure>
 
-    <p>As a science-based department, <a href="https://www.dfo-mpo.gc.ca/about-notre-sujet/publications/policy-politiques/science-integrity-integrite-scientifique/index-eng.html"><strong>scientific integrity</strong></a> is essential to the work of DFO and its employees. It is critical for: </p>
+    <p>As a science-based department, <a href="https://www.dfo-mpo.gc.ca/about-notre-sujet/publications/policy-politiques/science-integrity-integrite-scientifique/index-eng.html">scientific integrity</a> is essential to the work of DFO and its employees. It is critical for: </p>
     <ul>
       <li>planning and conducting research and monitoring</li>
       <li>producing and applying science advice </li>

@@ -52,7 +52,7 @@
 
 <p>Narratrice : examineront en détail l’analyse de sensibilité et les tables de décision&nbsp;;</p>
 
-<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « examiner comment l’évaluation de la stratégie de gestion (ESG) fournit une approche structurée de la gestion durable des pêches ; » apparaissent].</p>
+<p>[Visuel : Sous la phrase liminaire « Dans ce module, les participants vont : » les mots « examiner comment l’évaluation de la stratégie de gestion (ESG) fournit une approche structurée de la gestion durable de la pêches ; » apparaissent].</p>
 
 <p>Narratrice : examiner comment l’évaluation de la stratégie de gestion (ESG) fournit une approche structurée de la gestion durable de la pêche&nbsp;;</p>
 

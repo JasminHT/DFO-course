@@ -11,7 +11,7 @@
 
 <aside class='bg-info'>
   <h4>Définition : </h4>
-  Les modèles sont des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre. Les mathématiques et les statistiques sont le langage utilisé pour rédiger les modèles. Différents modèles peuvent être utilisés pour différentes évaluations de stocks en fonction de la disponibilité des données et des objectifs de l'évaluation.
+  <p>Les modèles sont des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre. Les mathématiques et les statistiques sont le langage utilisé pour rédiger les modèles. Différents modèles peuvent être utilisés pour différentes évaluations de stocks en fonction de la disponibilité des données et des objectifs de l'évaluation.</p>
 </aside>
 
 <figure class="wb-mltmd video-embed">
@@ -28,7 +28,7 @@
 
     <p>Narratrice: Évaluations des stocks fondées sur des modèles.</p>
 
-    <p>[Visuel : Une boîte bleue apparaît à la gauche de l’écran avec les mots « BALANCE ACTUELLE » à l’intérieur. Une icône représentant une petite pile de pièces de monnaie apparaît sous la boîte.]</p>
+    <p>[Visuel : Une boîte bleue apparaît à la gauche de l’écran avec les mots « SOLDE ACTUEL » à l’intérieur. Une icône représentant une petite pile de pièces de monnaie apparaît sous la boîte.]</p>
 
     <p>Narratrice: Un stock de poissons peut être comparé à un compte bancaire. Dans le domaine bancaire, votre solde actuel augmente au fur et à mesure que vous accumulez des intérêts.</p>
 
@@ -42,7 +42,7 @@
 
     <p>Narratrice: Ensemble, ces facteurs influencent le solde futur de votre compte bancaire.</p>
 
-    <p>[Visuel: Une boîte violette apparaît à l’extrême droite de l’écran avec les mots « FUTURE BALANCE » à l’intérieur. Une icône représentant une grande pile de pièces de monnaie apparaît sous la boîte.]</p>
+    <p>[Visuel: Une boîte violette apparaît à l’extrême droite de l’écran avec les mots « SOLDE FUTUR » à l’intérieur. Une icône représentant une grande pile de pièces de monnaie apparaît sous la boîte.]</p>
 
     <p>Narratrice: Prenons un scénario dans lequel la biomasse (le poids total de tous les poissons d’un stock) est utilisée pour évaluer un stock de poissons.</p>
 
@@ -188,7 +188,7 @@
       </figcaption>
     </figure>
 
-    <p>Les <strong>modèles de stock-recrutement</strong>, comme ceux de Beverton-Holt et de Ricker, explorent la relation entre les nombres de reproducteurs et de recrues dans un stock. Les scientifiques peuvent ainsi prédire le recrutement futur. </p>
+    <p>Les <strong>modèles de stock-recrutement</strong>, comme ceux de Beverton-Holt et de Ricker, explorent la relation entre les nombres de reproducteurs et de recrues dans un stock. Les scientifiques peuvent ainsi projeter le recrutement futur. </p>
   </details>
 </div>
 
