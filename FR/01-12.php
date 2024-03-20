@@ -8,7 +8,7 @@
 
 <h2>Unité 1.3 : État des stocks et points de référence</h2>
 
-<p>Une approche courante utilisée pour définir les points de référence consiste à les estimer sur la base de le rendement maximal durable d'un stock.</p>
+<p>Une approche courante utilisée pour définir les <span class="gc-dwnld-info"><abbr title="Point de référence : Un repère par rapport auquel la biomasse ou l’abondance du stock ou le taux de mortalité par pêche (ou taux d’exploitation) peuvent être mesurés afin de déterminer son état. Ces points de référence peuvent être des objectifs, des seuils ou des limites, selon l’usage auquel ils sont destinés.">points de référence</abbr></span> consiste à les estimer sur la base de le rendement maximal durable d'un stock.</p>
 
 <aside class='bg-info'>
   <h4>Définition : </h4>

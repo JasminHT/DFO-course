@@ -17,7 +17,7 @@ Photo credit: DFO</figcaption>
 </figure>
 
 
-<p>Stock assessment models range in complexity depending on the types and amount of data available and included. Different <b>parameters</b> (numbers that summarize a measurable characteristic of a stock) are used to describe background information. </p>
+<p>Stock assessment <span class="gc-dwnld-info"><abbr title="Models: tools used to simplify a natural system so it can be more easily understood.">models</abbr></span> range in complexity depending on the types and amount of data available and included. Different <b>parameters</b> (numbers that summarize a measurable characteristic of a stock) are used to describe background information. </p>
 <ul>
   <li>For data-rich stocks, parameters may be based on actual data. </li>
   <li>For stocks with limited data, parameters may be estimated based on knowledge of similar or related species. </li>

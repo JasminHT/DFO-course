@@ -10,7 +10,7 @@
 
 <h2>Unit 2.5: Model-free stock assessments</h2>
 
-<p>For some stocks, models may not be used for stock assessment. There are several model-free methods that can be used for data-limited stocks that do not require intensive computations. These approaches instead look for patterns in the data using time series. This allows for tracking stock changes to estimate how it will respond to different management actions. </p>
+<p>For some stocks, <span class="gc-dwnld-info"><abbr title="Models: tools used to simplify a natural system so it can be more easily understood.">models</abbr></span> may not be used for stock assessment. There are several model-free methods that can be used for data-limited stocks that do not require intensive computations. These approaches instead look for patterns in the data using time series. This allows for tracking stock changes to estimate how it will respond to different management actions. </p>
 
 <figure>
   <img src="../images/pile-of-fish.png">

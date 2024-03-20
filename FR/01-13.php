@@ -13,7 +13,7 @@
   <figcaption> Palourdes japonaises sur une plage. <br>Photo credit: DFO</figcaption>
 </figure>
 
-<p>Les indicateurs sont souvent utilisés pour décrire ce que l’on sait sur l’état d'un stock.</p>
+<p>Les indicateurs sont souvent utilisés pour décrire ce que l’on sait sur <span class="gc-dwnld-info"><abbr title="État du stock : Une décision prise, sur la base des résultats de l’évaluation du stock, au sujet de l’état actuel du stock.">l’état d’un stock</abbr></span>.</p>
 
 <aside class='bg-info'>
   <h4>Définition : </h4>
@@ -39,7 +39,7 @@
 
 <p>L’intégration de ces considérations écosystémiques plus générales dans les évaluations des stocks mène à une <span class="gc-dwnld-info"><abbr title="Approche écosystémique de la gestion des pêches (AEP) : intègre des variables écosystémiques (par exemple, des facteurs climatiques, océanographiques et écologiques) dans les évaluations des stocks d'une seule espèce et dans les avis scientifiques afin de mieux éclairer la prise de décision. Cela est particulièrement important lorsque les interactions prédateur-proie indiquent que les décisions de gestion concernant un stock ont des conséquences sur d'autres stocks.">approche écosystémique de la gestion des pêches</abbr></span>. </p>
 
-<p>Certaines évaluations des stocks peuvent comprendre des renseignements sur les écosystèmes et les conditions environnementales afin d’améliorer l’interprétation des données historiques et la précision des projections, notamment :</p>
+<p>Certaines évaluations des stocks peuvent comprendre des renseignements sur les écosystèmes et les conditions environnementales afin d’améliorer l’interprétation des données historiques et la précision des <span class="gc-dwnld-info"><abbr title="Projections : Explorer et comparer les résultats de nombreux scénarios qui pourraient se produire.">projections</abbr></span>, notamment :</p>
 <ul>
   <li>conditions océanographiques&nbsp;;</li>
   <li>conditions hydrographiques&nbsp;;</li>

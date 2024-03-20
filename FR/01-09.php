@@ -63,7 +63,7 @@
 
 <p>Le MPO doit assurer l’utilisation durable du poisson en tant que ressource renouvelable. L’évaluation des stocks vise à fournir des avis scientifiques aux gestionnaires au sujet des risques et de l’incertitude associés à la prise de différentes mesures de gestion. </p>
 
-<p>Les évaluations des stocks utilisent des calculs statistiques et mathématiques pour déterminer l’état d’un stock et, dans la mesure du possible, projeter comment il réagira à différentes mesures de gestion dans l’avenir. Les résultats des évaluations des stocks du MPO sont présentés et validés lors des réunions d’examen scientifique par les pairs. Par la suite, un avis scientifique est produit pour guider la prise de décisions.</p>
+<p>Les évaluations des stocks utilisent des calculs statistiques et mathématiques pour déterminer <span class="gc-dwnld-info"><abbr title="État du stock : Une décision prise, sur la base des résultats de l’évaluation du stock, au sujet de l’état actuel du stock.">l’état d’un stock</abbr></span> et, dans la mesure du possible, <span class="gc-dwnld-info"><abbr title="Projections : Explorer et comparer les résultats de nombreux scénarios qui pourraient se produire.">projeter</abbr></span> comment il réagira à différentes mesures de gestion dans l’avenir. Les résultats des évaluations des stocks du MPO sont présentés et validés lors des réunions d’examen scientifique par les pairs. Par la suite, un avis scientifique est produit pour guider la prise de décisions.</p>
 
 <p>Cliquez sur ces encadrés pour vous familiariser avec d’autres  termes clés : </p>
 

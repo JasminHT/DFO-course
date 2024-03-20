@@ -17,7 +17,7 @@ Source de la photo : MPO
 </figure>
 
 
-<p>La complexité des modèles d’évaluation des stocks varie selon le type et la quantité des données disponibles et incluses. Différents <b>paramètres</b> (c.-à-d. des nombres qui résument une caractéristique mesurable d’un stock) sont utilisés pour décrire l’information de base.</p>
+<p>La complexité des <span class="gc-dwnld-info"><abbr title="Modèles : Des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre.">modèles</abbr></span> d’évaluation des stocks varie selon le type et la quantité des données disponibles et incluses. Différents <b>paramètres</b> (c.-à-d. des nombres qui résument une caractéristique mesurable d’un stock) sont utilisés pour décrire l’information de base.</p>
 <ul>
   <li>Pour les stocks riches en données, les paramètres peuvent être fondés sur les données réelles.</li>
   <li>Dans le cas des stocks pour lesquels les données sont limitées, les paramètres peuvent être estimés en fonction de la connaissance d’espèces semblables ou apparentées.</li>

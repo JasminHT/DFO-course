@@ -10,7 +10,7 @@
 
 <h2>Unité 2.5 : Évaluations des stocks sans modèle</h2>
 
-<p>Il peut ne pas être possible d’utiliser des modèles pour les évaluations de certains stocks. Plusieurs méthodes sans modèle qui ne demandent pas de calculs intensifs peuvent être utilisées pour les stocks pour lesquels les données sont limitées. Elles cherchent plutôt à dégager des tendances dans les données à l’aide de séries chronologiques. On peut alors suivre les changements dans le stock pour estimer comment il réagira à différentes mesures de gestion. </p>
+<p>Il peut ne pas être possible d’utiliser des <span class="gc-dwnld-info"><abbr title="Modèles : Des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre.">modèles</abbr></span> pour les évaluations de certains stocks. Plusieurs méthodes sans modèle qui ne demandent pas de calculs intensifs peuvent être utilisées pour les stocks pour lesquels les données sont limitées. Elles cherchent plutôt à dégager des tendances dans les données à l’aide de séries chronologiques. On peut alors suivre les changements dans le stock pour estimer comment il réagira à différentes mesures de gestion. </p>
 
 <figure>
   <img src="../images/pile-of-fish.png">

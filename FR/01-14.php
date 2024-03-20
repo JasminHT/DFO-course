@@ -27,7 +27,7 @@
 
   <li>Les <span class="gc-dwnld-info"><abbr title="Détenteurs de droits: les successeurs modernes des collectivités autochtones qui ont signé des traités, qui ont occupé et utilisé les terres et se sont livrés à des pratiques historiques qui permettent de conclure à l’existence d’un droit ou d’un titre ancestral.">détenteurs de droits autochtones</abbr></span> et les intervenants contribuent beaucoup aux sciences halieutiques au Canada. </li>
 
-  <li>Dans la mesure du possible, les évaluations des stocks permettent de projeter la réaction des stocks de poissons à différentes mesures de gestion. Les scientifiques peuvent conseiller les gestionnaires sur les risques et l’incertitude associés à l’application de différentes mesures de gestion.</li>
+  <li>Dans la mesure du possible, les évaluations des stocks permettent de <span class="gc-dwnld-info"><abbr title="Projections : Explorer et comparer les résultats de nombreux scénarios qui pourraient se produire.">projeter</abbr></span> la réaction des stocks de poissons à différentes mesures de gestion. Les scientifiques peuvent conseiller les gestionnaires sur les risques et l’incertitude associés à l’application de différentes mesures de gestion.</li>
 
   <li>Les évaluations des stocks estiment l’état d’un stock. On crée les zones d’état saine, de prudence et critique en définissant des points de référence qui servent de seuils entre elles. 
 

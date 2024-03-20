@@ -54,7 +54,7 @@
     <li>  sampling location</li>
   </ul>
 
-  <p>Inuit and Gwich’in monitors review and help interpret results with DFO at annual working group meetings to inform stock status. </p>
+  <p>Inuit and Gwich’in monitors review and help interpret results with DFO at annual working group meetings to inform <span class="gc-dwnld-info"><abbr title="Stock status: refers to a determination made, on the basis of stock assessment results, about the current condition of the stock.">stock status</abbr></span>. </p>
 
 </aside>
 

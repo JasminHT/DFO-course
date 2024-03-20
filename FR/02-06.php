@@ -60,7 +60,7 @@ de la pêche dans l’ouest de l’Arctique canadien
     <li>la logistique de l’échantillonnage.</li>
   </ul>
 
-  <p>Des surveillants Inuits et Gwich’in examinent les résultats et aident à les interpréter avec le MPO lors des réunions annuelles du groupe de travail pour étayer l’état des stocks.</p>
+  <p>Des surveillants Inuits et Gwich’in examinent les résultats et aident à les interpréter avec le MPO lors des réunions annuelles du groupe de travail pour étayer <span class="gc-dwnld-info"><abbr title="État du stock : Une décision prise, sur la base des résultats de l’évaluation du stock, au sujet de l’état actuel du stock.">l’état des stocks</abbr></span>.</p>
 
 </aside>
 

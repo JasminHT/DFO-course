@@ -126,7 +126,7 @@ La mesure des mortalités dans un stock dues à toutes les causes autres que la 
 <dt>Projections : </dt><dd>Explorer et comparer les résultats de nombreux scénarios qui pourraient se produire.</dd>
 <dt>Quota : </dt><dd>Voir la définition du <a href="#tac">total autorisé des captures</a> (TAC).</dd>
 <dt>Ratio du potentiel du reproducteur : </dt><dd>Nombre d’œufs produits par un stock de poissons dans certaines conditions de pêche par rapport au nombre d’œufs qui seraient produits s’il n’était pas exploité.</dd>
-<dt>Recrutement : </dt><dd> Le recrutemtn a lieu lorsque de nouveaux poissons sont ajoutés à une population. Il est mesuré lorsque des poissons petits ou jeunes sont assez grands ou assez vieux pour être capturés dans une pêcherie (qui peut être affectée par les limites de capture ou le type d'engin) ou dans une étude scientifique. </dd>
+<dt>Recrutement : </dt><dd> Le recrutement a lieu lorsque de nouveaux poissons sont ajoutés à une population. Il est mesuré lorsque des poissons petits ou jeunes sont assez grands ou assez vieux pour être capturés dans une pêcherie (qui peut être affectée par les limites de capture ou le type d'engin) ou dans une étude scientifique. </dd>
 <dt>Relations stock-recrutement : </dt><dd>Les relations entre l’abondance ou la biomasse des adultes reproducteurs d’un stock et le nombre prévu de recrues qu’ils peuvent produire chaque année.</dd>
 <dt>Rendement maximal durable (RMD) : </dt><dd>La prise annuelle moyenne maximale qui peut être prélevée d’un stock sur une période indéfinie dans les conditions environnementales actuelles.</dd>
 <ul>

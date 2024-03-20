@@ -12,7 +12,7 @@
 
 
 
-<span class="gc-dwnld-info"><abbr title="Catch per unit effort: the quantity of fish caught with 1 standard unit of fishing effort (e.g., the number of fish taken per 1000 hooks per day or the weight of fish taken per hour of trawling). CPUE is often assumed to be a relative abundance index (i.e., proportional to the portion of the stock biomass (or numbers) vulnerable to the gear).">catch per unit effort</abbr></span> 
+<span class="gc-dwnld-info"><abbr title=""></abbr></span> 
 
 <span class="gc-dwnld-info"><abbr title="Consensus: an absence of opposition to the peer review meeting conclusions and advice.">consensus</abbr></span> 
 

@@ -9,7 +9,7 @@
 
 <h2>Unité 3.1 : Produits</h2>
 
-      <figure style="max-width:50%">  
+<figure style="max-width:50%;    margin-left: 7em;    margin-top: 2em;">  
         <img src="../images/capelin-bucket.jpg" alt="Des capelans dans un seau.">
         <figcaption>
 Source de la photo : MPO
@@ -17,7 +17,7 @@ Source de la photo : MPO
 
       </figure>
 
-<p>Les modèles peuvent mettre à l’essai des options de gestion dans un environnement virtuel à faible coût et à faible risque. Les scientifiques doivent communiquer les risques aux gestionnaires en produisant des avis qui expriment l’incertitude associée à la prise de différentes mesures de gestion.</p>
+<p>Les <span class="gc-dwnld-info"><abbr title="Modèles : Des outils utilisés pour simplifier un système naturel afin qu'il soit plus facile à comprendre.">modèles</abbr></span> peuvent mettre à l’essai des options de gestion dans un environnement virtuel à faible coût et à faible risque. Les scientifiques doivent communiquer les risques aux gestionnaires en produisant des avis qui expriment l’incertitude associée à la prise de différentes mesures de gestion.</p>
 
 <p>Voici quelques exemples courants de la manière dont les résultats de l'évaluation des stocks peuvent être communiqués :
 </p>
@@ -25,7 +25,7 @@ Source de la photo : MPO
 <div class='collapsible blue' id="module1">
   <details>
     <summary>Analyse de sensibilité</summary>
-    <p>Une <strong>analyse de sensibilité</strong> permet aux scientifiques d’explorer les effets de l’incertitude et des hypothèses en testant différents scénarios (comme une variation aléatoire dans le recrutement ou différents facteurs environnementaux ayant une incidence sur la mortalité naturelle). Ils sont parfois inclus dans les conseils scientifiques pour les replacer dans leur contexte.</p>
+    <p>Une <strong>analyse de sensibilité</strong> permet aux scientifiques d’explorer les effets de l’incertitude et des <span class="gc-dwnld-info"><abbr title="Hypothèse : Énoncé introduit dans un argument et (temporairement) accepté comme étant vrai.">hypothèses</abbr></span> en testant différents scénarios (comme une variation aléatoire dans le <span class="gc-dwnld-info"><abbr title="Recrutement : Le recrutement a lieu lorsque de nouveaux poissons sont ajoutés à une population. Il est mesuré lorsque des poissons petits ou jeunes sont assez grands ou assez vieux pour être capturés dans une pêcherie (qui peut être affectée par les limites de capture ou le type d'engin) ou dans une étude scientifique.">recrutement</abbr></span> ou différents facteurs environnementaux ayant une incidence sur la <span class="gc-dwnld-info"><abbr title="Mortalité naturelle : La mesure des mortalités dans un stock dues à toutes les causes autres que la pêche, comme : la prédation, la maladie, la disponibilité des proies, et la concurrence pour les ressources.>">mortalité naturelle</abbr></span>). Ils sont parfois inclus dans les conseils scientifiques pour les replacer dans leur contexte.</p>
   </details>
 </div>
 
@@ -33,7 +33,7 @@ Source de la photo : MPO
 <div class='collapsible blue' id="module2">
   <details>
     <summary>Tableaux de décision</summary>
-    <p>Ils utilisent souvent des <strong>tableaux de décision</strong> comme moyen simple de présenter des avis sur les conséquences et les compromis possibles qui accompagnent différentes décisions. Par exemple, les tableaux de décision peuvent décrire la probabilité qu’un stock soit au-dessus ou au-dessous d’un point de référence, ou le rendement projeté à différents niveaux de pêche.</p>
+    <p>Ils utilisent souvent des <strong>tableaux de décision</strong> comme moyen simple de présenter des avis sur les conséquences et les compromis possibles qui accompagnent différentes décisions. Par exemple, les tableaux de décision peuvent décrire la probabilité qu’un stock soit au-dessus ou au-dessous d’un <span class="gc-dwnld-info"><abbr title="Point de référence : Un repère par rapport auquel la biomasse ou l’abondance du stock ou le taux de mortalité par pêche (ou taux d’exploitation) peuvent être mesurés afin de déterminer son état. Ces points de référence peuvent être des objectifs, des seuils ou des limites, selon l’usage auquel ils sont destinés.">point de référence</abbr></span>, ou le rendement <span class="gc-dwnld-info"><abbr title="Projections : Explorer et comparer les résultats de nombreux scénarios qui pourraient se produire.">projeté</abbr></span> à différents niveaux de pêche.</p>
     <aside class='bg-info'>
       <h4>Définition : </h4>
       <p>La <strong>probabilité</strong> est la mesure dans laquelle un événement ou un scénario est susceptible de se produire.</p> </aside>

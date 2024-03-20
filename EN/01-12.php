@@ -8,7 +8,7 @@
 
 <h2>Unit 1.3:  Stock status and reference points</h2>
 
-<p>A common approach used to define reference points is to estimate them based on a stock’s maximum sustainable yield.</p>
+<p>A common approach used to define <span class="gc-dwnld-info"><abbr title="Reference point: a benchmark against which the biomass or abundance of the stock or the fishing mortality rate (or exploitation rate) can be measured in order to determine its status. These reference points can be targets, thresholds or limits depending on their intended use.">reference points</abbr></span> is to estimate them based on a stock’s maximum sustainable yield.</p>
 
 <aside class='bg-info'>
   <h4>Definition: </h4>

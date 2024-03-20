@@ -46,7 +46,7 @@
 
 <p>DFO is responsible for ensuring the sustainable use of fish in Canada as a renewable resource. The goal of stock assessment is to provide science advice to managers about the risks and uncertainty associated with taking different management actions. </p>
 
-<p>Stock assessments use statistical and mathematical calculations to determine a stock’s status and, where possible, project how it will react to different management actions in the future. The results of DFO’s stock assessments are presented and validated during scientific peer review meetings. From this, science advice is generated to inform decision making.</p>
+<p>Stock assessments use statistical and mathematical calculations to determine a <span class="gc-dwnld-info"><abbr title="Stock status: refers to a determination made, on the basis of stock assessment results, about the current condition of the stock.">stock’s status</abbr></span> and, where possible, <span class="gc-dwnld-info"><abbr title="Projections: explore and compare the outcomes of many scenarios that could happen.">project</abbr></span>  how it will react to different management actions in the future. The results of DFO’s stock assessments are presented and validated during scientific peer review meetings. From this, science advice is generated to inform decision making.</p>
 
 <p>Click through these boxes to familiarize yourself with more key terms:</p>
 

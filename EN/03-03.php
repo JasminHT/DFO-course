@@ -9,19 +9,18 @@
 
 <h2>Unit 3.1: Outputs</h2>
 
-<figure style="max-width:50%">
+<figure style="max-width:50%;    margin-left: 7em;    margin-top: 2em;">
   <img src="../images/capelin-bucket.jpg" alt="Capelin in a bucket">
   <figcaption>Photo credit: DFO</figcaption>
-
 </figure>
 
-<p>Models can test management options in a low-cost, low-risk, virtual environment. Scientists are responsible for communicating risk to managers by providing advice in a way that conveys the uncertainty associated with taking different management actions. </p>
+<p><span class="gc-dwnld-info"><abbr title="Models: tools used to simplify a natural system so it can be more easily understood.">Models</abbr></span> can test management options in a low-cost, low-risk, virtual environment. Scientists are responsible for communicating risk to managers by providing advice in a way that conveys the uncertainty associated with taking different management actions. </p>
 <p>Here are some common examples of how stock assessment outputs may be communicated:</p>
 
 <div class='collapsible blue' id="module1">
   <details>
     <summary>Sensitivity analysis</summary>
-    <p><strong>Sensitivity analyses</strong> allows scientists to explore the impacts of uncertainty and assumptions by testing different scenarios (for example, random variation in recruitment or different environmental factors affecting natural mortality). They are sometimes included alongside science advice for context.</p>
+    <p><strong>Sensitivity analyses</strong> allows scientists to explore the impacts of uncertainty and <span class="gc-dwnld-info"><abbr title="Assumption: a statement introduced into an argument that is accepted as being true.">assumptions</abbr></span> by testing different scenarios (for example, random variation in <span class="gc-dwnld-info"><abbr title="Recruitment: occurs when new fish are added to a population. It is commonly measured when small or young fish grow large or old enough to be caught in a fishery (which may be affected by catch limits or gear type) or scientific survey.">recruitment</abbr></span> or different environmental factors affecting <span class="gc-dwnld-info"><abbr title="Natural mortality (M): measure of deaths in a stock due to everything other than fishing, such as: predation, disease, prey availability, and competition for resources.">natural mortality</abbr></span>). They are sometimes included alongside science advice for context.</p>
   </details>
 </div>
 
@@ -29,7 +28,7 @@
 <div class='collapsible blue' id="module2">
   <details>
     <summary>Decision tables</summary>
-    <p><strong>Decision tables</strong> are often used as a simple way to present advice regarding the potential consequences and trade-offs of making different decisions. For example, they can describe the probability that a stock will be above or below a reference point, or project yield at different levels of fishing.</p>
+    <p><strong>Decision tables</strong> are often used as a simple way to present advice regarding the potential consequences and trade-offs of making different decisions. For example, they can describe the probability that a stock will be above or below a <span class="gc-dwnld-info"><abbr title="Reference point: a benchmark against which the biomass or abundance of the stock or the fishing mortality rate (or exploitation rate) can be measured in order to determine its status. These reference points can be targets, thresholds or limits depending on their intended use.">reference point</abbr></span>, or <span class="gc-dwnld-info"><abbr title="Projections: explore and compare the outcomes of many scenarios that could happen.">project</abbr></span> yield at different levels of fishing.</p>
         <aside class='bg-info'>
         <h4>Definition: </h4>
          <p><strong>Probability</strong> is the extent to which an event or scenario is likely to occur. </p></aside>

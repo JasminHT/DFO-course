@@ -29,7 +29,7 @@
 
   <li><span class="gc-dwnld-info"><abbr title="Rights-holders: modern successors to the Indigenous collectives that signed treaties, occupied and used land, and engaged in historic practices that support a finding of an Aboriginal right or Aboriginal title.">Rights-holders</abbr></span>  and stakeholders contribute significantly to fisheries science in Canada. </li>
 
-  <li>Where possible, stock assessments project how fish stocks will react to different management actions. Scientists can provide advice to managers about the risks and uncertainty associated with taking different management actions.</li>
+  <li>Where possible, stock assessments <span class="gc-dwnld-info"><abbr title="Projections: explore and compare the outcomes of many scenarios that could happen.">project</abbr></span> how fish stocks will react to different management actions. Scientists can provide advice to managers about the risks and uncertainty associated with taking different management actions.</li>
 
   <li>Stock assessments estimate the status of a stock. Healthy, cautious, and critical status zones are created by defining reference points that act as boundaries between them. 
 
