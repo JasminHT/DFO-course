@@ -4,7 +4,7 @@
     ob_start(); 
 
     //set this to true to generate an HTML export of all pages
-    $exporting = true; 
+    $exporting = false; 
 
     ?>
 
