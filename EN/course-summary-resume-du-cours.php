@@ -4,7 +4,7 @@
   $page_title = "Course Summary";
   $page_description = "Developing a reusable template for building DFO elearning pages in the GCWeb theme";
 
-  $custom_next = "resources-ressources.php";
+  $custom_next = "resources-ressources";
   
   $prev_module = 4;
   $prev_page = 8;

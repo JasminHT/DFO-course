@@ -2,8 +2,11 @@
     //begin recording the page for saving to HTML file
     //the closing argument is found in the "after.php" file
     ob_start(); 
-  ?>
+    
+    //set this to true to generate an HTML export of all pages
+    $exporting = true; 
 
+    ?>
 
     <?php include 'includes/header.php'; ?>
 
@@ -18,7 +21,6 @@
           Introduction à l’évaluation des stocks
         </h1>
         <div id='snap'></div>
-      
 
 
         <?php include "includes/pager.php"; ?>

@@ -1,6 +1,10 @@
-
 <?php
 
+ if ($exporting == true) {
+    $filetype = ".html";
+ } else {
+    $filetype = ".php";
+ }
 
   if (!function_exists('twodigits')) {
     function twodigits($number) {
@@ -39,48 +43,34 @@
 ?> 
 
 
-<ul class="pager"> 
-
-  <?php if (!isset($no_prev)) { ?>
-    <li  >
-      <?php 
+        <ul class="pager"> 
+<?php if (!isset($no_prev)) {
         if (isset($custom_prev)) {
-          $prev_link = $custom_prev;
+          $prev_link = $custom_prev.$filetype;
         } else {
-          $prev_link = $prev_module_string."-".$prev_page_string.".php";
+          $prev_link = $prev_module_string."-".$prev_page_string.$filetype;
         }
-      ?>
-      <a href=<?php echo $prev_link; ?> rel="prev">
-          
-          Précédent
-      </a>
-    </li>
-  <?php } ?>
-  &nbsp;&nbsp;
+?>
+             <li><a href="<?php echo $prev_link; ?>" rel="prev">Précédent</a></li>
+<?php } ?>
+            &nbsp;&nbsp;
 
-  <li class='pagecount'>        
-  <?php 
+              <li class='pagecount'><?php 
 
-  if ($pagecount > 0)
-    { echo "Page ".$page." de ".$pagecount; }
-  else 
-    { echo $page_title;}
-  ?>
- </li>
+              if ($pagecount > 0)
+                { echo "Page ".$page." de ".$pagecount; }
+              else 
+                { echo $page_title;}
+              ?>
+             </li>
 
-  <?php if (!isset($no_next )) { ?>
-    <li  >
-      <?php 
+<?php if (!isset($no_next )) { 
         if (isset($custom_next)) {
-          $next_link = $custom_next;
+          $next_link = $custom_next.$filetype;
         } else {
-          $next_link = $next_module_string."-".$next_page_string.".php";
+          $next_link = $next_module_string."-".$next_page_string.$filetype;
         }
       ?>
-      <a href=<?php echo $next_link; ?> rel="next">
-        
-          Suivant
-      </a>
-    </li>
-  <?php } ?>
-</ul>
+               <li><a href="<?php echo $next_link; ?>" rel="next">Suivant</a></li>
+<?php } ?>
+          </ul>

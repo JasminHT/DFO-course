@@ -3,8 +3,8 @@
   $page = 2;
   $page_title = "Ressources";
   $page_description = "Developing a reusable template for building DFO elearning pages in the GCWeb theme";
-  $custom_prev = "course-summary-resume-du-cours.php";
-  $custom_next = "glossary-glossaire.php";
+  $custom_prev = "course-summary-resume-du-cours";
+  $custom_next = "glossary-glossaire";
   include "includes/before.php"; 
 
 

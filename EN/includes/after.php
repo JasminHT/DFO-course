@@ -3,7 +3,7 @@
         <?php include "includes/pager.php"; ?>
 
         <?php 
-          $date_modified = "2024-02-28";
+          $date_modified = "2024-03-22";
           include 'includes/pagedetails.php' ;
         ?>
 
@@ -30,13 +30,10 @@
     //save the page as an html file
     //the opening argument is found in the before.php file
   
-    //$page_html = ob_get_contents(); 
-    //file_put_contents( twodigits($module)."-".twodigits($page).".html", $page_html );
-    //ob_flush();
+    if ($exporting == true) {
+      $page_html = ob_get_contents(); 
+      file_put_contents( twodigits($module)."-".twodigits($page).".html", $page_html );
+      ob_flush(); 
+    }
     
   ?>
-
-
-
-
-

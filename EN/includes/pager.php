@@ -1,6 +1,10 @@
-
 <?php
 
+ if ($exporting == true) {
+    $filetype = ".html";
+ } else {
+    $filetype = ".php";
+ }
 
   if (!function_exists('twodigits')) {
     function twodigits($number) {
@@ -37,50 +41,33 @@
   }
 
 ?> 
+        <ul class="pager"> 
+<?php if (!isset($no_prev)) {
+              if (isset($custom_prev)) {
+                $prev_link = $custom_prev.$filetype;
+              } else {
+                $prev_link = $prev_module_string."-".$prev_page_string.$filetype;
+              }
+          ?>
+          <li><a href="<?=$prev_link; ?>" rel="prev">Previous</a></li>
+<?php } ?>
+          &nbsp;&nbsp;
+          <li class='pagecount'><?php 
 
+            if ($pagecount > 0)
+              { echo "Page ".$page." of ".$pagecount; }
+            else 
+              { echo $page_title;}
+            ?></li>
+<?php
+            if (!isset($no_next )) {
+              if (isset($custom_next)) {
+                $next_link = $custom_next.$filetype;
+              } else {
+                $next_link = $next_module_string."-".$next_page_string.$filetype;
+              }
+          ?>
+          <li><a href="<?= $next_link; ?>" rel="next">Next</a></li>
+<?php } ?>
+        </ul>
 
-<ul class="pager"> 
-
-  <?php if (!isset($no_prev)) { ?>
-    <li>
-      <?php 
-        if (isset($custom_prev)) {
-          $prev_link = $custom_prev;
-        } else {
-          $prev_link = $prev_module_string."-".$prev_page_string.".php";
-        }
-      ?>
-      <a href=<?php echo $prev_link; ?> rel="prev">
-          
-          Previous
-      </a>
-    </li>
-  <?php } ?>
-  &nbsp;&nbsp;
-
-  <li class='pagecount'>        
-  <?php 
-
-  if ($pagecount > 0)
-    { echo "Page ".$page." of ".$pagecount; }
-  else 
-    { echo $page_title;}
-  ?>
- </li>
-
-  <?php if (!isset($no_next )) { ?>
-    <li >
-      <?php 
-        if (isset($custom_next)) {
-          $next_link = $custom_next;
-        } else {
-          $next_link = $next_module_string."-".$next_page_string.".php";
-        }
-      ?>
-      <a href=<?php echo $next_link; ?> rel="next">
-        
-          Next
-      </a>
-    </li>
-  <?php } ?>
-</ul>

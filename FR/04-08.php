@@ -4,7 +4,7 @@
   $page_title = "Page ".$page;
   $page_description = "Developing a reusable template for building DFO elearning pages in the GCWeb theme";
   
-  $custom_next = 'course-summary-resume-du-cours.php';
+  $custom_next = 'course-summary-resume-du-cours';
   
   include "includes/before.php"; 
 ?>
