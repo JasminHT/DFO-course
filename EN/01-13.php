@@ -13,7 +13,7 @@
   <figcaption> Manila clams on a beach. <br>Photo credit: DFO</figcaption>
 </figure>
 
-<p>Indicators are often used to describe what is known about a stock’s status.</p>
+<p>Indicators are often used to describe what is known about a <span class="gc-dwnld-info"><abbr title="Stock status: refers to a determination made, on the basis of stock assessment results, about the current condition of the stock.">stock’s status</abbr></span>.</p>
 
 <aside class='bg-info'>
   <h4>Definition: </h4>

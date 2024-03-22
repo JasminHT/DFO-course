@@ -151,7 +151,7 @@
       </figcaption>
     </figure>
 
-    <p><strong>Stock-recruitment models</strong>, such as Beverton-Holt and Ricker, explore the relationship between the number of spawners and recruits in a stock. From this, scientists can predict the number of future recruits. </p>
+    <p><strong>Stock-recruitment models</strong>, such as Beverton-Holt and Ricker, explore the relationship between the number of spawners and recruits in a stock. From this, scientists can <span class="gc-dwnld-info"><abbr title="Projections: explore and compare the outcomes of many scenarios that could happen.">project</abbr></span> the number of future recruits. </p>
   </details>
 </div>
 

@@ -111,7 +111,7 @@
   <details id="inline-captions">
     <summary>Modèles fondés sur l’âge</summary>      
 
-    <p>Les <strong>modèles fondés sur l’âge</strong> suivent une <span class="gc-dwnld-info"><abbr title="Cohorte ou classe d’âge : Tous les poissons d’un stock nés au cours de la même année de fraie.">cohorte</abbr></span> dans le temps pour déterminer l’abondance passée et présente. À chaque pas de temps, le nombre de poissons prélevés par la pêche est connu et la mortalité naturelle est estimée ou supposée pour prédire l’abondance des poissons les années suivantes. </p>
+    <p>Les <strong>modèles fondés sur l’âge</strong> suivent une <span class="gc-dwnld-info"><abbr title="Cohorte ou classe d’âge : Tous les poissons d’un stock nés au cours de la même année de fraie.">cohorte</abbr></span> dans le temps pour déterminer l’abondance passée et présente. À chaque pas de temps, le nombre de poissons prélevés par la pêche est connu et la mortalité naturelle est estimée ou supposée pour <span class="gc-dwnld-info"><abbr title="Projections : Explorer et comparer les résultats de nombreux scénarios qui pourraient se produire.">projeter</abbr></span> l’abondance des poissons les années suivantes. </p>
 
     <aside>
     <h3>Exemple: Une cohorte dans le temps</h3>
